@@ -45,12 +45,10 @@ We appreciate your understanding. This partial release is intended for initial e
 
 ## 💾 Accessing the (Partial) Dataset
 
-*(Please specify here how users can access the currently available partial dataset. For example, provide a link to a `data/sample` folder within this repository, a separate download link, or a Hugging Face Datasets link.)*
-
 **Example:**
 *   Sample data can be found in the `data/sample_v0.1` directory of this repository.
-    *   [Link to Sample Data](./data/sample_v0.1) (Please update this link accordingly)
-*   For details on data structure and format, please refer to the [DATA_FORMAT.md](./DATA_FORMAT.md) document (Create this file if necessary).
+    *   [Link to Sample Data](./data/sample_v0.1)
+*   For details on data structure and format, please refer to the [DATA_FORMAT.md](./DATA_FORMAT.md) document.
 
 ---
 
