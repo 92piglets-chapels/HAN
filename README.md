@@ -1,7 +1,6 @@
 # HAN: Korean Heritage Augmented Narrative Visual-Language Description Dataset
 
-[![KOGL Type 2: Source Indication + Commercial Use Prohibition](https://www.mcst.go.kr/kor/images/sub/img_opencode2.jpg)](http://www.kogl.or.kr/info/licenseTypeView.do?licenseType=TYPE2)  
-[![GitHub stars](https://img.shields.io/github/stars/92piglets-chapels/HAN.svg?style=social&label=Star&maxAge=2592000)](https://github.com/92piglets-chapels/HAN/stargazers)
+[![KOGL Type 2: Source Indication + Commercial Use Prohibition](https://www.mcst.go.kr/kor/images/sub/img_opencode2.jpg)](https://www.mcst.go.kr/kor/s_open/kogl/koglType.jsp?pTab=05)  
 
 ---
 
@@ -58,9 +57,10 @@ We appreciate your understanding. This partial release is intended for initial e
 ## 📜 License
 
 This dataset is available under the terms of the **KOGL (Korea Open Government License) Type 2 (Attribution + Non-Commercial)**.
+
 *(This KOGL Type 2 license is similar to the Creative Commons BY-NC license)*
 
-[![KOGL Type 2: Attribution + Non-Commercial](http://www.kogl.or.kr/open/web/images/images_2014/kogl_img_02.png)](http://www.kogl.or.kr/info/licenseTypeView.do?licenseType=TYPE2)
+[![KOGL Type 2: Attribution + Non-Commercial](https://www.mcst.go.kr/kor/images/sub/img_opencode2.jpg](https://www.mcst.go.kr/kor/s_open/kogl/koglType.jsp?pTab=05)
 
 **Key Conditions:**
 *   **Attribution (BY):** You must give appropriate credit (indicate the source of the work, e.g., author, public institution). (This is a base condition from Type 1).
