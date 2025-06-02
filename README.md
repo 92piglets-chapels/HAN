@@ -1,6 +1,6 @@
 # HAN: Korean Heritage Augmented Narrative Visual-Language Description Dataset
 
-[![KOGL Type 2: Source Indication + Commercial Use Prohibition](http://www.kogl.or.kr/open/web/images/images_2014/kogl_img_02.png)](http://www.kogl.or.kr/info/licenseTypeView.do?licenseType=TYPE2)  
+[![KOGL Type 2: Source Indication + Commercial Use Prohibition](https://www.mcst.go.kr/kor/images/sub/img_opencode2.jpg)](http://www.kogl.or.kr/info/licenseTypeView.do?licenseType=TYPE2)  
 *(This KOGL Type 2 license is similar to the Creative Commons BY-NC license)*
 [![GitHub stars](https://img.shields.io/github/stars/92piglets-chapels/HAN.svg?style=social&label=Star&maxAge=2592000)](https://github.com/92piglets-chapels/HAN/stargazers)
 
