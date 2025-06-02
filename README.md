@@ -1,6 +1,7 @@
 # HAN: Korean Heritage Augmented Narrative Visual-Language Description Dataset
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) <!-- Replace with your actual license -->
+[![KOGL Type 2: Source Indication + Commercial Use Prohibition](http://www.kogl.or.kr/open/web/images/images_2014/kogl_img_02.png)](http://www.kogl.or.kr/info/licenseTypeView.do?licenseType=TYPE2)  
+*(This KOGL Type 2 license is similar to the Creative Commons BY-NC license)*
 [![GitHub stars](https://img.shields.io/github/stars/92piglets-chapels/HAN.svg?style=social&label=Star&maxAge=2592000)](https://github.com/92piglets-chapels/HAN/stargazers)
 
 ---
@@ -20,7 +21,7 @@ The HAN dataset aims to support research objectives such as:
 ## 📊 Dataset Overview
 
 *   **Total Images:** 41,000
-*   **Total Captions:** 410,000 (averaging 10 per image)
+*   **Total Captions:** 410,000 (10 captions per image)
     *   **Korean Captions:** 205,000
     *   **English Captions:** 205,000
 *   **Main Content:** Images and narrative descriptions related to Korean architecture, artifacts, artworks, traditional events, natural landscapes, and other aspects of cultural heritage.
@@ -52,6 +53,30 @@ We appreciate your understanding. This partial release is intended for initial e
 *   Sample data can be found in the `data/sample_v0.1` directory of this repository.
     *   [Link to Sample Data](./data/sample_v0.1) (Please update this link accordingly)
 *   For details on data structure and format, please refer to the [DATA_FORMAT.md](./DATA_FORMAT.md) document (Create this file if necessary).
+
+---
+
+## 📜 License
+
+This dataset is available under the terms of the **KOGL (Korea Open Government License) Type 2 (Attribution + Non-Commercial)**.
+
+[![KOGL Type 2: Attribution + Non-Commercial](http://www.kogl.or.kr/open/web/images/images_2014/kogl_img_02.png)](http://www.kogl.or.kr/info/licenseTypeView.do?licenseType=TYPE2)
+
+**Key Conditions:**
+*   **Attribution (BY):** You must give appropriate credit (indicate the source of the work, e.g., author, public institution). (This is a base condition from Type 1).
+*   **Non-Commercial (NC):** You may not use the material for commercial purposes.
+*   **Freedom to Use and Adapt:** As long as you comply with the two conditions above, you are free to use the public work without separate permission and to adapt it to create derivative works.
+
+**KOGL Type 2 Description:**
+> **Type 2: Type 1 + Commercial Use Prohibition**
+>
+> The user can freely use the public work without fee, and can change it to create secondary work, but it is not permitted to use for commercial purpose.
+
+This means that in addition to the KOGL Type 1 (Attribution) condition, commercial use is prohibited.
+
+For more details, please refer to the links below:
+*   [Detailed View of KOGL Type 2 License (Official Site - in Korean)](http://www.kogl.or.kr/info/licenseTypeView.do?licenseType=TYPE2)
+*   [KOGL License Type Guide (Ministry of Culture, Sports and Tourism - in Korean)](https://www.mcst.go.kr/kor/s_open/kogl/koglType.jsp?pTab=05)
 
 ---
 
