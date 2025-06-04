@@ -1,0 +1,39 @@
+{
+    "image": {
+        "image_id": "NW_0190_0186_0.png",
+        "resolution": "640x360",
+        "DPI": 72,
+        "bitdepth": 24,
+        "image_category_1": "자연/기상",
+        "image_category_2": "자연/환경",
+        "image_category_3": "산/산맥"
+    },
+    "video": {
+        "video_id": "NW_0190.mp4",
+        "timecode": "00:03:06",
+        "video_category_1": "자연/기상",
+        "video_category_2": "자연/환경",
+        "video_category_3": "산/산맥",
+        "framerate": 30,
+        "production_year": 2024,
+        "media": "SNS",
+        "reference": "SBS_Story",
+        "copyright": "SBS"
+    },
+    "context": {
+        "caption_en_1": "There is a breathtaking panorama of a mountainous landscape in the morning.",
+        "caption_en_2": "A thick white sea of clouds blankets the valleys, creating a tranquil and ethereal atmosphere.",
+        "caption_en_3": "The mountain peaks rise above the clouds, dusted with a light layer of snow.",
+        "caption_en_4": "The sky is painted in soft pastel hues of blue, pink and orange, which adds to the serenity of the atmosphere.",
+        "caption_en_5": "The mountains stretch out to the horizon where the cloud seamlessly merges with the sky.",
+        "caption_ko_1": "넓게 펼쳐진 산 위의 하얀색의 구름 사이로 오른쪽엔 산봉우리가 솟아 있습니다.",
+        "caption_ko_2": "눈이 녹지 않은 겨울산 위에 앙상한 가지에 흰색 눈이 덮여 눈꽃 모양을 하고 있습니다.",
+        "caption_ko_3": "갈색의 겨울산 위에 가벼운 눈 층으로 덮여 있으며 울퉁불퉁한 능선들로 이어져 있습니다.",
+        "caption_ko_4": "지평선 위의 하늘은 부드러운 파란색, 분홍색, 보라색의 파스텔 톤으로 이어져 있습니다.",
+        "caption_ko_5": "우뚝 솟은 산봉우리 오른쪽으로 하얀색의 두꺼운 구름이 산 위로 넓게 깔려있습니다.",
+        "words_per_caption_en": 15.4,
+        "words_per_caption_ko": 11.8,
+        "total_words_en": 77,
+        "total_words_ko": 59
+    }
+}

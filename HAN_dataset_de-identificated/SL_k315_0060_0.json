@@ -1,0 +1,39 @@
+{
+    "image": {
+        "image_id": "SL_k315_0060_0.png",
+        "resolution": "1280x720",
+        "DPI": 72,
+        "bitdepth": 24,
+        "image_category_1": "경제/산업/일상",
+        "image_category_2": "이벤트",
+        "image_category_3": "축제"
+    },
+    "video": {
+        "video_id": "SL_k315.mp4",
+        "timecode": "00:01:00",
+        "video_category_1": "스포츠/레저",
+        "video_category_2": "스포츠",
+        "video_category_3": "구기",
+        "framerate": 30,
+        "production_year": 2022,
+        "media": "지상파",
+        "reference": "SBS_Archive",
+        "copyright": "SBS"
+    },
+    "context": {
+        "caption_en_1": "A bustling crowd are gathered at night in an urban environment for a lively event or public viewing.",
+        "caption_en_2": "The backdrop is filled with the twinkling lights of buildings and streetlights, adding depth to the scene.",
+        "caption_en_3": "People are bundled up in warm clothing, with many wearing red scarves, jackets, and hats, indicating unified support for a specific team.",
+        "caption_en_4": "The crowd spans a wide area, with barriers visible to organize the masses.",
+        "caption_en_5": "Some individuals are waving flags or holding up signs, enhancing the passionate atmosphere.",
+        "caption_ko_1": "많은 이들이 단합을 나타내기 위해 빨간색 스카프, 재킷 등을 착용하고 있습니다.",
+        "caption_ko_2": "활기찬 행사나 축제, 공개 관람을 위해 도심 환경에서 모인 분주한 군중입니다.",
+        "caption_ko_3": "다양한 사람이 함께 어우러져 있으며, 각자 다른 의상을 입고 있어 다채로운 분위기를 자아냅니다.",
+        "caption_ko_4": "몇몇 사람은 깃발을 흔들거나 표지판을 들고 있어 열렬한 분위기를 더하고 있습니다.",
+        "caption_ko_5": "대부분은 특정 색상, 특히 빨간색의 스카프나 의상을 착용하고 있어 단합된 지원을 나타냅니다.",
+        "words_per_caption_en": 16.6,
+        "words_per_caption_ko": 11.6,
+        "total_words_en": 83,
+        "total_words_ko": 58
+    }
+}

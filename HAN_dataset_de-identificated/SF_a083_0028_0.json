@@ -1,0 +1,39 @@
+{
+    "image": {
+        "image_id": "SF_a083_0028_0.png",
+        "resolution": "1280x720",
+        "DPI": 72,
+        "bitdepth": 24,
+        "image_category_1": "과학기술",
+        "image_category_2": "공학/기술",
+        "image_category_3": "IT"
+    },
+    "video": {
+        "video_id": "SF_a083.mp4",
+        "timecode": "00:00:28",
+        "video_category_1": "특수촬영",
+        "video_category_2": "CG",
+        "video_category_3": "CG",
+        "framerate": 30,
+        "production_year": 2018,
+        "media": "지상파",
+        "reference": "SBS_Archive",
+        "copyright": "SBS"
+    },
+    "context": {
+        "caption_en_1": "The man is fully engaged in a virtual reality experience, wearing a spotted VR headset and holding two controllers.",
+        "caption_en_2": "A projection of a 3D model or sculpture is displayed on the wall behind him, likely part of the VR environment he's interacting with.",
+        "caption_en_3": "Dressed in a neon green shirt and brown jacket, he stands in a dark room, illuminated by the light from the VR equipment.",
+        "caption_en_4": "The 3D model appears detailed and complex, showcasing the use of VR technology for design or creative purposes.",
+        "caption_en_5": "The man's posture and movement indicate that he is actively manipulating or interacting with the virtual 3D object.",
+        "caption_ko_1": "불꺼진 실내는 어둡지만 화면 뒤편에서 약한 빛이 들어오고 있고 오른쪽에는 통로로 보이는 공간이 일부 보입니다.",
+        "caption_ko_2": "한 남성은 갈색 체크무늬 자켓에 형광 초록색의 터틀넥을 입고 있습니다.",
+        "caption_ko_3": "한 남성의 뒤에 있는 벽에는 빔 프로젝터로 쏜 어떤 만화적인 화면이 보입니다.",
+        "caption_ko_4": "한 남성의 얼굴에는 인중과 턱선을 따라 수염이 나있으며 왼쪽 귀에는 어두운 색의 링 귀걸이를 하고 있습니다.",
+        "caption_ko_5": "한 남성은 흰 바탕에 검은색 점 모양이 많이 있는 가상현실 기기를 머리에 쓰고 있습니다.",
+        "words_per_caption_en": 20.4,
+        "words_per_caption_ko": 13.4,
+        "total_words_en": 102,
+        "total_words_ko": 67
+    }
+}

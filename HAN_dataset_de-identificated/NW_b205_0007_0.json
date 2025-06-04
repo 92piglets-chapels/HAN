@@ -1,0 +1,39 @@
+{
+    "image": {
+        "image_id": "NW_b205_0007_0.png",
+        "resolution": "1280x720",
+        "DPI": 72,
+        "bitdepth": 24,
+        "image_category_1": "동식물",
+        "image_category_2": "동물",
+        "image_category_3": "야생동물"
+    },
+    "video": {
+        "video_id": "NW_b205.mp4",
+        "timecode": "00:00:07",
+        "video_category_1": "자연/기상",
+        "video_category_2": "계절/날씨",
+        "video_category_3": "봄",
+        "framerate": 30,
+        "production_year": 2021,
+        "media": "지상파",
+        "reference": "SBS_Archive",
+        "copyright": "SBS"
+    },
+    "context": {
+        "caption_en_1": "A small chipmunk stands on a patch of moss-covered rocks, surrounded by snow.",
+        "caption_en_2": "The chipmunk's fur is a blend of brown, black, and white stripes, creating a striking contrast against the vibrant green moss and the stark white snow.",
+        "caption_en_3": "Behind the chipmunk, there are two more mossy rocks scattered in the white snow.",
+        "caption_en_4": "The presence of snow suggests a cold period, perhaps late autumn or winter.",
+        "caption_en_5": "The bright daylight highlights the colors vividly, making the environment look crisp and fresh.",
+        "caption_ko_1": "다람쥐의 털은 갈색, 검정, 흰색 줄무늬가 혼합되어 있어 선명한 녹색 이끼와 눈에 띄는 대조를 이룹니다.",
+        "caption_ko_2": "밝은 햇살이 색상을 눈부시게 해주어 환경을 신선하고 깨끗해 보이게 합니다.",
+        "caption_ko_3": "눈이 쌓인 것으로 보아 계절은 겨울이라는 것을 알 수 있습니다.",
+        "caption_ko_4": "이끼 낀 돌 위에 있는 다람쥐는 음식을 찾고 있는 듯 보입니다.",
+        "caption_ko_5": "작은 나뭇가지와 말라버린 잎들이 눈 위에 흩어져 있어 자연스러운 배경을 이루고 있습니다.",
+        "words_per_caption_en": 16.0,
+        "words_per_caption_ko": 11.6,
+        "total_words_en": 80,
+        "total_words_ko": 58
+    }
+}

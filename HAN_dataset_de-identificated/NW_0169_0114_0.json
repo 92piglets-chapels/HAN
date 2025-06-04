@@ -1,0 +1,39 @@
+{
+    "image": {
+        "image_id": "NW_0169_0114_0.png",
+        "resolution": "640x360",
+        "DPI": 72,
+        "bitdepth": 24,
+        "image_category_1": "자연/기상",
+        "image_category_2": "천체/우주",
+        "image_category_3": "별"
+    },
+    "video": {
+        "video_id": "NW_0169.mp4",
+        "timecode": "00:01:54",
+        "video_category_1": "자연/기상",
+        "video_category_2": "자연/환경",
+        "video_category_3": "산/산맥",
+        "framerate": 30,
+        "production_year": 2015,
+        "media": "SNS",
+        "reference": "SBS_Story",
+        "copyright": "SBS"
+    },
+    "context": {
+        "caption_en_1": "There is a breathtaking night sky filled with innumerable stars, illuminating the vast expanse above.",
+        "caption_en_2": "There are tents standing out vividly against the dark landscape, secured on what appears to be a campsite.",
+        "caption_en_3": "The Milky Way is prominently visible, stretching across the sky, creating a magnificent backdrop.",
+        "caption_en_4": "The horizon reveals the silhouette of mountains, adding to the serenity and grandeur of the scene.",
+        "caption_en_5": "The tents’ yellow glow casts a warm inviting light, suggesting the presence of campers enjoying the peaceful night.",
+        "caption_ko_1": "어두운 밤하늘은 칠흙처럼 어둡고 중앙에 긴 은하수가 물감처럼 펼쳐져 있습니다.",
+        "caption_ko_2": "하늘 아래로 까맣게 보이는 웅장한 산맥이 병풍처럼 길게 펼쳐져 있습니다.",
+        "caption_ko_3": "웅장한 산맥 아래로 밝게 불을 켜고 있는 텐트가 몇개 있습니다.",
+        "caption_ko_4": "어둡고 고요해 보이는 이곳은 자연 그대로의 아름다움을 간직한 곳으로 보입니다.",
+        "caption_ko_5": "커다란 은하수는 텐트들 위로 길게 늘어져 있으며 연기처럼 보이기도 합니다.",
+        "words_per_caption_en": 16.2,
+        "words_per_caption_ko": 10.0,
+        "total_words_en": 81,
+        "total_words_ko": 50
+    }
+}

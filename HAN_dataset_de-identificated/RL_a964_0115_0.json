@@ -1,0 +1,39 @@
+{
+    "image": {
+        "image_id": "RL_a964_0115_0.png",
+        "resolution": "1280x720",
+        "DPI": 72,
+        "bitdepth": 24,
+        "image_category_1": "지역/랜드마크",
+        "image_category_2": "건축",
+        "image_category_3": "건물"
+    },
+    "video": {
+        "video_id": "RL_a964.mp4",
+        "timecode": "00:01:55",
+        "video_category_1": "지역/랜드마크",
+        "video_category_2": "건축",
+        "video_category_3": "건물",
+        "framerate": 30,
+        "production_year": 2017,
+        "media": "지상파",
+        "reference": "SBS_Archive",
+        "copyright": "SBS"
+    },
+    "context": {
+        "caption_en_1": "Majestic traditional Korean architecture nestled within a serene natural landscape.",
+        "caption_en_2": "The intricate blue-tiled roof designs cascade elegantly across several buildings, revealing wooden supports and white walls beneath.",
+        "caption_en_3": "It is captured from an elevated viewpoint, offering a glimpse of the lush greenery and towering mountains in the background.",
+        "caption_en_4": "Tall, slender trees punctuate the soft haze of the morning, casting long shadows across the manicured gardens and winding path that meanders through the complex.",
+        "caption_en_5": "The buildings are arranged in a harmonious layout, suggesting a purpose of cultural or historical significance.",
+        "caption_ko_1": "울창한 녹지와 멀리 뻗어 있는 장엄한 산맥을 부감으로 한눈에 볼 수 있습니다.",
+        "caption_ko_2": "복잡한 청기와 지붕이 건물을 더욱 우아하게 만들며, 나무 지지대와 하얀 벽도 눈에 띕니다.",
+        "caption_ko_3": "조용하고 평화로운 분위기 속에서 한국의 문화유산인 한옥을 감상할 수 있습니다.",
+        "caption_ko_4": "키가 큰 나무들이 마을 곳곳에 있으며, 정돈된 정원과 구부러진 길에 긴 그림자가 드리워져 있습니다.",
+        "caption_ko_5": "건물들은 조화롭게 배치되어 있으며, 문화적 또는 역사적으로 매우 중요하다고 추측할 수 있습니다.",
+        "words_per_caption_en": 17.6,
+        "words_per_caption_ko": 12.2,
+        "total_words_en": 88,
+        "total_words_ko": 61
+    }
+}

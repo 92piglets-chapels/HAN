@@ -1,0 +1,39 @@
+{
+    "image": {
+        "image_id": "ST_a318_0097_0.png",
+        "resolution": "1280x720",
+        "DPI": 72,
+        "bitdepth": 24,
+        "image_category_1": "경제/산업/일상",
+        "image_category_2": "산업",
+        "image_category_3": "분석"
+    },
+    "video": {
+        "video_id": "ST_a318.mp4",
+        "timecode": "00:01:37",
+        "video_category_1": "과학기술",
+        "video_category_2": "공학/기술",
+        "video_category_3": "반도체",
+        "framerate": 30,
+        "production_year": 2014,
+        "media": "지상파",
+        "reference": "SBS_Archive",
+        "copyright": "SBS"
+    },
+    "context": {
+        "caption_en_1": "Featured is a person dressed in a pristine white full-body protective suit, diligently peering through a microscope in a high-tech laboratory.",
+        "caption_en_2": "The room is bathed in bright white light with hints of blue and gray, evoking a sterile, futuristic atmosphere.",
+        "caption_en_3": "Numerous pieces of sophisticated equipment surround the individual, with monitors, test machines, and various other devices meticulously arranged on workstations.",
+        "caption_en_4": "The individual appears to be deeply focused, suggesting an intense concentration on the minute details of a sample placed below the microscope.",
+        "caption_en_5": "The detailed equipment hints at a cutting-edge technological or scientific setting where accuracy and cleanliness are of utmost importance.",
+        "caption_ko_1": "작업대 위에는 정교한 장비가 있고 테스트 기계 및 기타 다양한 장치들로 정렬되어 있습니다.",
+        "caption_ko_2": "미세 전자장치로 제약 또는 과학 연구와 같은 첨단 기술 분야에서 수행되는 중요한 작업을 수행합니다.",
+        "caption_ko_3": "최첨단 실험실에서 현미경을 들여다보는 하얀색 전신 보호복을 입은 사람이 있습니다.",
+        "caption_ko_4": "장비의 세밀한 부분이 정확성을 강조하며, 보호복은 작업에 방해되는 오염물질을 막아줍니다.",
+        "caption_ko_5": "흰 색의 깨끗한 보호복을 입은 작업자는 현미경 아래 있는 물건에 집중하는 모습입니다.",
+        "words_per_caption_en": 20.2,
+        "words_per_caption_ko": 11.8,
+        "total_words_en": 101,
+        "total_words_ko": 59
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "image": {
+        "image_id": "ST_d288_0173_0.png",
+        "resolution": "1280x720",
+        "DPI": 72,
+        "bitdepth": 24,
+        "image_category_1": "경제/산업/일상",
+        "image_category_2": "산업",
+        "image_category_3": "공학"
+    },
+    "video": {
+        "video_id": "ST_d288.mp4",
+        "timecode": "00:02:53",
+        "video_category_1": "과학기술",
+        "video_category_2": "공학/기술",
+        "video_category_3": "반도체",
+        "framerate": 30,
+        "production_year": 2024,
+        "media": "지상파",
+        "reference": "SBS_Archive",
+        "copyright": "SBS"
+    },
+    "context": {
+        "caption_en_1": "Featured is a high-tech facility illuminated in a vivid yellow hue.",
+        "caption_en_2": "A person dressed in a white cleanroom suit is interacting with a computer terminal stationed on a wheeled platform.",
+        "caption_en_3": "The surroundings are filled with large, beige equipment that likely comprises various control units and servers.",
+        "caption_en_4": "Multiple panels and compartments indicate a complex machinery setup, hinting at advanced technological operations taking place.",
+        "caption_en_5": "On the wheeled platform, there are multiple small containers, possibly holding microchips or delicate instruments.",
+        "caption_ko_1": "바퀴 달린 플랫폼에는 여러 개의 소형 컨테이너가 있어 마이크로칩 또는 정밀 기기를 보관하고 있다.",
+        "caption_ko_2": "흰색 보호복 수트를 입은 사람이 네 개의 바퀴가 달린 플랫폼에 있는 컴퓨터를 조작하고 있다.",
+        "caption_ko_3": "한 사람이 클린룸 복장을 입고 반도체 산업 내 중요한 작업을 하고 있다.",
+        "caption_ko_4": "시설은 매우 살균된 장소로 보이며 노란 조명과 특수한 복장이 돋보입니다.",
+        "caption_ko_5": "생생한 노란색으로 밝은 하이테크 시설이며 작업자는 최첨단 장비를 다루고 있습니다.",
+        "words_per_caption_en": 15.4,
+        "words_per_caption_ko": 12.0,
+        "total_words_en": 77,
+        "total_words_ko": 60
+    }
+}

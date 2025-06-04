@@ -1,0 +1,39 @@
+{
+    "image": {
+        "image_id": "CA_a526_0154_0.png",
+        "resolution": "1280x720",
+        "DPI": 72,
+        "bitdepth": 24,
+        "image_category_1": "자연/기상",
+        "image_category_2": "자연/환경",
+        "image_category_3": "도시/시골"
+    },
+    "video": {
+        "video_id": "CA_a526.mp4",
+        "timecode": "00:02:34",
+        "video_category_1": "문화/예술",
+        "video_category_2": "영화/연극",
+        "video_category_3": "드라마",
+        "framerate": 30,
+        "production_year": 1992,
+        "media": "지상파",
+        "reference": "SBS_Archive",
+        "copyright": "SBS"
+    },
+    "context": {
+        "caption_en_1": "It is a bustling street scene from a historical period.",
+        "caption_en_2": "Dominating the foreground, a tram that has a light-colored roof moves along the tracks.",
+        "caption_en_3": "Surrounding the tram tracks, there are clusters of individuals, each engaged in their own activities.",
+        "caption_en_4": "Some seem to be walking toward the tram, some are standing around, and others appear to be in conversation.",
+        "caption_en_5": "The majority of the people are dressed in traditional clothing, reflecting the fashion and cultural context of the time.",
+        "caption_ko_1": "대다수의 사람은 그 시대의 패션과 문화적 배경을 반영하는 전통 의상을 입고 있습니다.",
+        "caption_ko_2": "마을의 뒤쪽을 둘러싼 구불구불한 언덕이나 산은 지역의 자연 환경을 강조하며, 풍경의 아름다움을 더합니다.",
+        "caption_ko_3": "마을의 대중교통 수단을 엿볼 수 있는 전차는 사람들로 가득 차 있습니다.",
+        "caption_ko_4": "일부 사람들은 전차 노선 옆으로 걸어가고 있고, 일부는 서서 대화를 나누고 있는 것 같습니다.",
+        "caption_ko_5": "길 양옆으로 늘어선 전통 건축 양식의 건물들은 지역의 역사와 문화적 배경을 드러냅니다.",
+        "words_per_caption_en": 15.4,
+        "words_per_caption_ko": 12.4,
+        "total_words_en": 77,
+        "total_words_ko": 62
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "image": {
+        "image_id": "EI_b591_0144_0.png",
+        "resolution": "1280x720",
+        "DPI": 72,
+        "bitdepth": 24,
+        "image_category_1": "지역/랜드마크",
+        "image_category_2": "건축",
+        "image_category_3": "건물"
+    },
+    "video": {
+        "video_id": "EI_b591.mp4",
+        "timecode": "00:02:24",
+        "video_category_1": "경제/산업/일상",
+        "video_category_2": "라이프",
+        "video_category_3": "패션",
+        "framerate": 30,
+        "production_year": 2019,
+        "media": "지상파",
+        "reference": "SBS_Archive",
+        "copyright": "SBS"
+    },
+    "context": {
+        "caption_en_1": "It shows a bustling urban scene featuring a large, futuristic building with a unique, oval-shaped dome prominently in the center.",
+        "caption_en_2": "The cityscape is alive with activity as multitudes of vehicles populate the streets below, including buses, cars and taxis.",
+        "caption_en_3": "Pedestrians can be seen dotting the sidewalks, crossing the streets and congregating in the open spaces around the building.",
+        "caption_en_4": "Skyscrapers and other high-rise buildings frame the background, creating an impressive skyline that speaks to the city’s vibrant commercial activities.",
+        "caption_en_5": "The time appears to be early evening, with the sky cloaked in a bluish-gray hue suggesting the onset of dusk.",
+        "caption_ko_1": "도시 풍경은 길 아래를 따라 버스, 자동차, 택시를 포함한 수많은 차량들로 가득 차 있습니다.",
+        "caption_ko_2": "시간은 해 질 녘이나 새벽이 다가오는 정도로 보이며 하늘은 청회색 톤으로 맑습니다.",
+        "caption_ko_3": "차량과 사람으로 붐비는 도심 한가운데 우주선처럼 미래지향적인 타원형 돔이 눈에 띕니다.",
+        "caption_ko_4": "보도에 점을 찍는 보행자들이 건물 주위의 열린 공간에서 도로를 건너기 위해 모이고 있는 모습을 볼 수 있습니다.",
+        "caption_ko_5": "많은 차와 버스는 대담한 회색 건축물에 역동성을 더해주고 도심 한가운데에 있다는 것을 반영합니다.",
+        "words_per_caption_en": 19.6,
+        "words_per_caption_ko": 13.4,
+        "total_words_en": 98,
+        "total_words_ko": 67
+    }
+}

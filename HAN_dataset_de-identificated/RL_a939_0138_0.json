@@ -1,0 +1,39 @@
+{
+    "image": {
+        "image_id": "RL_a939_0138_0.png",
+        "resolution": "1280x720",
+        "DPI": 72,
+        "bitdepth": 24,
+        "image_category_1": "지역/랜드마크",
+        "image_category_2": "건축",
+        "image_category_3": "건물"
+    },
+    "video": {
+        "video_id": "RL_a939.mp4",
+        "timecode": "00:02:18",
+        "video_category_1": "지역/랜드마크",
+        "video_category_2": "건축",
+        "video_category_3": "건물",
+        "framerate": 30,
+        "production_year": 2019,
+        "media": "지상파",
+        "reference": "SBS_Archive",
+        "copyright": "SBS"
+    },
+    "context": {
+        "caption_en_1": "It shows a tranquil scene dominated by traditional hanok-style houses that reflect the rich cultural heritage of Korea.",
+        "caption_en_2": "The wooden beams intricately interlace with white walls creating a stark contrast that adds to the aesthetic appeal of the structures.",
+        "caption_en_3": "The sloping rooftops, covered in dark tiles and accentuated by graceful eaves, encircle the perimeter with historical charm.",
+        "caption_en_4": "In the background, mist blankets the undulating hills, giving a mystical aura to this idyllic setting.",
+        "caption_en_5": "The overcast sky creates a soft, diffused light that gently illuminates the scene, enhancing the serenity and calmness of the moment.",
+        "caption_ko_1": "고요한 하늘 아래 전통 스타일의 집들이 있어 한국의 풍부한 문화유산을 감상할 수 있습니다.",
+        "caption_ko_2": "하늘에는 안개가 잔뜩 끼어 있지만, 희미하게 빠져나온 빛이 마을 전체를 비추고 있습니다.",
+        "caption_ko_3": "한옥의 대다수를 차지하고 있는 나무와 흰 벽이 정교하게 어우러져 있어 미적 매력을 더합니다.",
+        "caption_ko_4": "멀리 안개가 낀 산봉우리가 보이며, 한옥마을과 잘 어울려 고즈넉한 분위기를 조성합니다.",
+        "caption_ko_5": "어두운 기와로 덮인 경사진 지붕은 우아한 처마와 함께 한옥의 매력을 뽐내고 있습니다.",
+        "words_per_caption_en": 18.8,
+        "words_per_caption_ko": 12.2,
+        "total_words_en": 94,
+        "total_words_ko": 61
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "image": {
+        "image_id": "FO_a911_0077_0.png",
+        "resolution": "1280x720",
+        "DPI": 72,
+        "bitdepth": 24,
+        "image_category_1": "음식",
+        "image_category_2": "한식",
+        "image_category_3": "재료"
+    },
+    "video": {
+        "video_id": "FO_a911.mp4",
+        "timecode": "00:01:17",
+        "video_category_1": "음식",
+        "video_category_2": "한식",
+        "video_category_3": "한식",
+        "framerate": 30,
+        "production_year": 2017,
+        "media": "지상파",
+        "reference": "SBS_Archive",
+        "copyright": "SBS"
+    },
+    "context": {
+        "caption_en_1": "Two pairs of hands in plastic gloves busily mix an assortment of vegetables inside a large brown mixing bowl.",
+        "caption_en_2": "The person wears a vivid red apron with a blue garment visible underneath, focusing intently on the task at hand.",
+        "caption_en_3": "Various vegetables, including julienned carrots and radish, add a splash of color to the scene.",
+        "caption_en_4": "To the right, a plate filled with napa cabbage and other leafy greens rests on the table, suggesting that the vegetables are being prepared for making a traditional Korean dish.",
+        "caption_en_5": "The lighting in the room is bright, illuminating the ingredients clearly.",
+        "caption_ko_1": "이 모습은 전통적인 한국 요리를 위한 재료로 보이며, 백김치 만들기를 준비하는 과정입니다.",
+        "caption_ko_2": "두 켤레의 장갑을 낀 손이 큰 갈색 혼합 그릇 안에서 여러 가지 채소를 열심히 섞고 있습니다.",
+        "caption_ko_3": "이 동작은 요리 수업의 한 순간을 캡처하여 백김치 만드는 과정을 시청자에게 가르쳐주고 있습니다.",
+        "caption_ko_4": "사람은 빨간색 앞치마를 입고 있으며, 그 아래에는 파란 옷이 보이면서 작업에 집중하고 있습니다.",
+        "caption_ko_5": "빠른 조명으로 깨끗하게 비추어지는 환경은 위생과 신중한 음식 준비를 강조하고 있습니다.",
+        "words_per_caption_en": 19.0,
+        "words_per_caption_ko": 13.0,
+        "total_words_en": 95,
+        "total_words_ko": 65
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "image": {
+        "image_id": "CA_b675_0039_0.png",
+        "resolution": "1280x720",
+        "DPI": 72,
+        "bitdepth": 24,
+        "image_category_1": "지역/랜드마크",
+        "image_category_2": "명소",
+        "image_category_3": "랜드마크"
+    },
+    "video": {
+        "video_id": "CA_b675.mp4",
+        "timecode": "00:00:39",
+        "video_category_1": "문화/예술",
+        "video_category_2": "전시",
+        "video_category_3": "실내전시",
+        "framerate": 30,
+        "production_year": 2022,
+        "media": "지상파",
+        "reference": "SBS_Archive",
+        "copyright": "SBS"
+    },
+    "context": {
+        "caption_en_1": "There is a vibrant cityscape at night featuring an illuminated structure with Namdaemun in the foreground.",
+        "caption_en_2": "The traditional Korean building's golden lights make it glow warmly.",
+        "caption_en_3": "In the background are modern buildings with bright windows and colorful signage.",
+        "caption_en_4": "There is bustling activity on the road in front of the building in the center with numerous cars, their headlights glowing in the dark.",
+        "caption_en_5": "The traditional structure has intricate patterns with red and green accents.",
+        "caption_ko_1": "고층 건물에 달려 있는 간판들은 이 도시가 얼마나 변화한 지를 보여주고 있습니다.",
+        "caption_ko_2": "하늘의 색깔로 보아 해가 지고 있는 시간대라는 걸 알 수 있습니다.",
+        "caption_ko_3": "전통 건축물의 왼쪽에는 층마다 강한 조명이 들어와 있는 고층 빌딩이 있습니다.",
+        "caption_ko_4": "중앙에는 전통적인 한국 건축 요소가 들어간 유서 깊은 건축물인 남대문이 있습니다.",
+        "caption_ko_5": "전통 건축물 주위에 여러 차와 버스가 빛의 동적 줄기를 만들어 역동성이 느껴집니다.",
+        "words_per_caption_en": 15.0,
+        "words_per_caption_ko": 11.2,
+        "total_words_en": 75,
+        "total_words_ko": 56
+    }
+}

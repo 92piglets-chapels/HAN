@@ -1,0 +1,39 @@
+{
+    "image": {
+        "image_id": "AP_a347_0013_0.png",
+        "resolution": "1280x720",
+        "DPI": 72,
+        "bitdepth": 24,
+        "image_category_1": "자연/기상",
+        "image_category_2": "계절/날씨",
+        "image_category_3": "겨울"
+    },
+    "video": {
+        "video_id": "AP_a347.mp4",
+        "timecode": "00:00:13",
+        "video_category_1": "동식물",
+        "video_category_2": "식물",
+        "video_category_3": "식물",
+        "framerate": 30,
+        "production_year": 2018,
+        "media": "지상파",
+        "reference": "SBS_Archive",
+        "copyright": "SBS"
+    },
+    "context": {
+        "caption_en_1": "It showcases a snow-covered, mountainous landscape under a pristine white sky.",
+        "caption_en_2": "Winding roads snake through the rugged terrain, cutting paths through snow drifts and patches of exposed earth.",
+        "caption_en_3": "A few vehicles moving slowly are scattered along these roads, likely tackling the icy and challenging conditions.",
+        "caption_en_4": "Leafless trees stand tall, their skeletal branches reaching skyward, creating an eerie yet serene atmosphere against the backdrop of the white-dusted hills.",
+        "caption_en_5": "Construction equipment is visible in the middle of the frame, hinting at ongoing development or efforts to clear the roads.",
+        "caption_ko_1": "겨울이기 때문에 산에는 눈이 쌓였고, 침엽수를 제외한 나무는 가지가 앙상합니다.",
+        "caption_ko_2": "산의 고도는 꽤 높지만 정상까지 차를 운행할 수 있도록 도로가 개척돼 있습니다.",
+        "caption_ko_3": "도로는 일직선이 아닌 산세를 따라 구불구불한 모양이고, 산을 올라가는 차들이 있습니다.",
+        "caption_ko_4": "날씨는 맑고 햇빛은 투명하지만 겨울의 낮은 기온의 영향을 받아 안개가 짙게 드리웠습니다.",
+        "caption_ko_5": "하늘은 하얀색 눈에 반사돼 흰색에 가까운 푸른빛을 띠어 더욱 청량한 분위기입니다.",
+        "words_per_caption_en": 17.4,
+        "words_per_caption_ko": 11.2,
+        "total_words_en": 87,
+        "total_words_ko": 56
+    }
+}

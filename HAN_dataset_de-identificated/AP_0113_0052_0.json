@@ -1,0 +1,39 @@
+{
+    "image": {
+        "image_id": "AP_0113_0052_0.png",
+        "resolution": "640x360",
+        "DPI": 72,
+        "bitdepth": 24,
+        "image_category_1": "자연/기상",
+        "image_category_2": "자연/환경",
+        "image_category_3": "산/산맥"
+    },
+    "video": {
+        "video_id": "AP_0113.mp4",
+        "timecode": "00:00:52",
+        "video_category_1": "동식물",
+        "video_category_2": "식물",
+        "video_category_3": "식물",
+        "framerate": 30,
+        "production_year": 2022,
+        "media": "SNS",
+        "reference": "SBS_Story",
+        "copyright": "SBS"
+    },
+    "context": {
+        "caption_en_1": "A vibrant, scenic village teeming with flowers is known as Maehwa Village.",
+        "caption_en_2": "There are three thatched roof houses and fencing made from rocks makes outlines.",
+        "caption_en_3": "The trees are adorned with pink, white, and red flowers, which create a picturesque and lively environment.",
+        "caption_en_4": "Paths meander through the village, with neatly arranged flower beds on either side.",
+        "caption_en_5": "In the center, several traditional houses with brown, thatched roofs are visible.",
+        "caption_ko_1": "나무는 핑크, 흰색, 빨간 꽃으로 이루어져 있으며, 그림의 한 장면 같습니다.",
+        "caption_ko_2": "형형색색의 꽃이 마을의 산책로를 따라 피어있으며 그 주위로 사람들이 걷고 있습니다.",
+        "caption_ko_3": "마을 전체를 화려하게 수 놓은 꽃나무들은 산책로를 따라 구불구불하게 심어져 있습니다.",
+        "caption_ko_4": "마을에 있는 가옥들 주위로 사람들이 마을을 산책하며 경치를 즐기고 있습니다.",
+        "caption_ko_5": "마을은 꽃들의 아름다움을 강조하기 위해 만들어졌으며, 방문객들에게 평온하고 환영받는 분위기를 제공합니다.",
+        "words_per_caption_en": 13.4,
+        "words_per_caption_ko": 10.8,
+        "total_words_en": 67,
+        "total_words_ko": 54
+    }
+}

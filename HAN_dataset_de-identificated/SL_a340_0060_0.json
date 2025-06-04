@@ -1,0 +1,39 @@
+{
+    "image": {
+        "image_id": "SL_a340_0060_0.png",
+        "resolution": "1280x720",
+        "DPI": 72,
+        "bitdepth": 24,
+        "image_category_1": "스포츠/레저",
+        "image_category_2": "스포츠",
+        "image_category_3": "레저스포츠"
+    },
+    "video": {
+        "video_id": "SL_a340.mp4",
+        "timecode": "00:01:00",
+        "video_category_1": "스포츠/레저",
+        "video_category_2": "스포츠",
+        "video_category_3": "레저스포츠",
+        "framerate": 30,
+        "production_year": 2018,
+        "media": "지상파",
+        "reference": "SBS_Archive",
+        "copyright": "SBS"
+    },
+    "context": {
+        "caption_en_1": "A bustling winter resort is filled with an array of activities among the crowd.",
+        "caption_en_2": "Numerous people are engaging in snow sledging down a broad, snowy slope bordered by bright red barriers.",
+        "caption_en_3": "The slope is surrounded by a charming array of buildings and trees dusted with snow.",
+        "caption_en_4": "In the background, a bustling small town with multi-story buildings and parked cars is seen, contrasted against the pristine white snowy ground.",
+        "caption_en_5": "The shiny, snowy ground bathed in natural light indicates a clear day.",
+        "caption_ko_1": "맑은 날씨 속에서 하얀 눈과 겨울 스포츠가 어우러져 평화롭고 편안한 분위기를 자아냅니다.",
+        "caption_ko_2": "각기 다른 색상의 썰매가 눈 속에서 반짝이며, 많은 사람이 즐거운 시간을 보내고 있습니다.",
+        "caption_ko_3": "하얀 눈이 모든 것을 감싸고 있어 마치 겨울 동화 속 장면처럼 아름답습니다.",
+        "caption_ko_4": "다양한 사람들이 눈 덮인 넓은 언덕 아래로 썰매를 타고 내려가고 있습니다.",
+        "caption_ko_5": "썰매장의 하얀 눈과 밝은 햇살이 어우러져 생동감 넘치는 분위기를 만들어냅니다.",
+        "words_per_caption_en": 16.0,
+        "words_per_caption_ko": 11.6,
+        "total_words_en": 80,
+        "total_words_ko": 58
+    }
+}

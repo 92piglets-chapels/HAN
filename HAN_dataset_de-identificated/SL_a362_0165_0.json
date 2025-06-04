@@ -1,0 +1,39 @@
+{
+    "image": {
+        "image_id": "SL_a362_0165_0.png",
+        "resolution": "1280x720",
+        "DPI": 72,
+        "bitdepth": 24,
+        "image_category_1": "스포츠/레저",
+        "image_category_2": "스포츠",
+        "image_category_3": "익스트림"
+    },
+    "video": {
+        "video_id": "SL_a362.mp4",
+        "timecode": "00:02:45",
+        "video_category_1": "스포츠/레저",
+        "video_category_2": "스포츠",
+        "video_category_3": "레저스포츠",
+        "framerate": 30,
+        "production_year": 1996,
+        "media": "지상파",
+        "reference": "SBS_Archive",
+        "copyright": "SBS"
+    },
+    "context": {
+        "caption_en_1": "The people appear focused and determined, involved in a diving experience below the icy surface.",
+        "caption_en_2": "In the center is a person dressed in a striking red and black diving suit, emblazoned with the word ‘IOBEY’ and the letters ‘BYS’ standing out.",
+        "caption_en_3": "This individual is surrounded by equipment, including a large yellow and black contraption that appears to be some sort of specialized tool or machine.",
+        "caption_en_4": "To the right, a person wearing dark clothing and a cap is kneeling and talking to the diver, holding onto a pole-like object connected to a bucket.",
+        "caption_en_5": "The interaction between the individuals and their specialized gear highlights a dedicated effort in navigating or exploring this frozen territory.",
+        "caption_ko_1": "잠수부는 얼어붙은 호수에 뚫려 있는 구멍을 통해 물 속으로 들어가려 합니다.",
+        "caption_ko_2": "오른쪽에 모자를 쓰고 쪼그려 앉아 있는 사람은 누군가와 대화를 나누고 있습니다.",
+        "caption_ko_3": "추운 겨울에 물 속으로 들어가려는 잠수부 주위에 많은 사람들이 모여 있습니다.",
+        "caption_ko_4": "빨간색과 검은색이 들어간 잠수복을 입은 다이버는 양동이에 연결된 막대기처럼 생긴 물건을 잡고 있습니다.",
+        "caption_ko_5": "왼쪽에 검은색 모자를 쓰고 있는 사람은 하늘색 장갑을 낀 손으로 동그란 물체를 잡고 있습니다.",
+        "words_per_caption_en": 22.4,
+        "words_per_caption_ko": 12.0,
+        "total_words_en": 112,
+        "total_words_ko": 60
+    }
+}

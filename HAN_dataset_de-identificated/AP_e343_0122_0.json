@@ -1,0 +1,39 @@
+{
+    "image": {
+        "image_id": "AP_e343_0122_0.png",
+        "resolution": "1280x720",
+        "DPI": 72,
+        "bitdepth": 24,
+        "image_category_1": "자연/기상",
+        "image_category_2": "자연/환경",
+        "image_category_3": "강/호수"
+    },
+    "video": {
+        "video_id": "AP_e343.mp4",
+        "timecode": "00:02:02",
+        "video_category_1": "동식물",
+        "video_category_2": "식물",
+        "video_category_3": "식물",
+        "framerate": 30,
+        "production_year": 2015,
+        "media": "지상파",
+        "reference": "SBS_Archive",
+        "copyright": "SBS"
+    },
+    "context": {
+        "caption_en_1": "A tranquil river meandering through a vibrant landscape of lush greenery and rolling hills.",
+        "caption_en_2": "The river's surface reflects the sky and surrounding flora, creating a serene atmosphere.",
+        "caption_en_3": "Towering trees with dense foliage line the riverbank, their leaves a mixture of deep greens and early autumn yellows.",
+        "caption_en_4": "A solitary dirt path snakes along the river bordered by a green fence and punctuated by small clusters of plants and rocks.",
+        "caption_en_5": "Beyond the river, the terrain transforms into an expansive field dotted with more trees and bushes stretching towards the hazy silhouette of distant mountains.",
+        "caption_ko_1": "나무는 붉은색, 주황색, 초록색의 이파리를 가진 나무들이 울창하게 펼쳐져 있습니다.",
+        "caption_ko_2": "주변 경관은 자연의 아름다움을 보여주고 있으며 먼 산들은 가벼운 안개에 휩싸여 자연의 경이로운 느낌을 줍니다.",
+        "caption_ko_3": "강 표면은 하늘과 주변 식물을 반사하여 비추어 고즈넉하고 고요한 분위기를 조성합니다.",
+        "caption_ko_4": "강은 물길이 잔잔하며 주변의 산과 하늘을 반사하여 비추고 있으며 그 모습이 아름답습니다.",
+        "caption_ko_5": "강 오른쪽에는 나무가 듬성듬성 있으며 대부분 갈색 갈대와 잡초와 그 외 식물이 있습니다.",
+        "words_per_caption_en": 18.4,
+        "words_per_caption_ko": 12.2,
+        "total_words_en": 92,
+        "total_words_ko": 61
+    }
+}

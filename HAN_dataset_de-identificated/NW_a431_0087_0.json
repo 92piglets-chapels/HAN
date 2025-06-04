@@ -1,0 +1,39 @@
+{
+    "image": {
+        "image_id": "NW_a431_0087_0.png",
+        "resolution": "1280x720",
+        "DPI": 72,
+        "bitdepth": 24,
+        "image_category_1": "자연/기상",
+        "image_category_2": "자연/환경",
+        "image_category_3": "도시/시골"
+    },
+    "video": {
+        "video_id": "NW_a431.mp4",
+        "timecode": "00:01:27",
+        "video_category_1": "자연/기상",
+        "video_category_2": "계절/날씨",
+        "video_category_3": "비",
+        "framerate": 30,
+        "production_year": 2024,
+        "media": "지상파",
+        "reference": "SBS_Archive",
+        "copyright": "SBS"
+    },
+    "context": {
+        "caption_en_1": "It is a serene landscape with rolling hills in the background and lush green fields in the foreground.",
+        "caption_en_2": "A winding road snakes through the greenery leading the eye towards distant structures that might be small houses or farm buildings.",
+        "caption_en_3": "There is a river coursing through the area, its waters a muted shade of brown.",
+        "caption_en_4": "Dense clusters of trees line the riverbanks creating a natural boundary for the waterway.",
+        "caption_en_5": "The fields on either side of the road are vivid green, showing healthy crops.",
+        "caption_ko_1": "강 오른쪽 나무 너머에는 크게 드러난 맨땅이 있는데 이는 현재 비어 있습니다.",
+        "caption_ko_2": "구불구불한 도로가 녹지 속을 뱀처럼 지나가며 농가 건물로 추측되는 구조물이 보입니다.",
+        "caption_ko_3": "배경에 구불구불한 언덕과 전경에는 울창한 녹지가 강을 따라 펼쳐져 있습니다.",
+        "caption_ko_4": "도로 양쪽의 들판은 화려한 녹색으로 건강한 농작물을 재배할 수 있으며 이 지역의 농업 특성을 고려하면 아마도 논일 가능성이 있습니다.",
+        "caption_ko_5": "중심에는 강이 흐르고 있으며 강물은 갈색인데 이는 비가 내리거나 침전물 때문인 듯합니다.",
+        "words_per_caption_en": 16.4,
+        "words_per_caption_ko": 12.8,
+        "total_words_en": 82,
+        "total_words_ko": 64
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "image": {
+        "image_id": "RL_b834_0135_0.png",
+        "resolution": "1280x720",
+        "DPI": 72,
+        "bitdepth": 24,
+        "image_category_1": "경제/산업/일상",
+        "image_category_2": "이벤트",
+        "image_category_3": "축제"
+    },
+    "video": {
+        "video_id": "RL_b834.mp4",
+        "timecode": "00:02:15",
+        "video_category_1": "지역/랜드마크",
+        "video_category_2": "여행",
+        "video_category_3": "힐링",
+        "framerate": 30,
+        "production_year": 2019,
+        "media": "지상파",
+        "reference": "SBS_Archive",
+        "copyright": "SBS"
+    },
+    "context": {
+        "caption_en_1": "A crowded night market is bustling with people walking between food trucks.",
+        "caption_en_2": "Brightly lit food stalls on both sides attract customers with colorful signs.",
+        "caption_en_3": "A variety of vendors offer different foods, including pizza and Asian dishes.",
+        "caption_en_4": "People wearing casual clothes are packed closely together, browsing the stalls.",
+        "caption_en_5": "The sky is a deepening blue as evening sets in over the lively scene.",
+        "caption_ko_1": "하늘은 어두운 편이지만 아직 주변이 그렇게 어둡지 않아 야외 활동을 즐기기 괜찮은 시간대입니다.",
+        "caption_ko_2": "왼쪽에 활짝 열려 있는 트럭 문에는 따뜻한 빛을 내는 노란색 조명이 여러 개 달려 있습니다.",
+        "caption_ko_3": "야시장은 다양한 먹거리와 볼거리를 눈과 입으로 즐기기 위해 야외로 나온 사람들로 북적이고 있습니다.",
+        "caption_ko_4": "좁은 길을 따라 다양한 먹거리를 사람들에게 판매하는 푸드 트럭이 여러 대 세워져 있습니다.",
+        "caption_ko_5": "오른쪽에 특정 가게를 홍보하는 것처럼 보이는 타코야끼 캐릭터는 밝은 표정을 짓고 있습니다.",
+        "words_per_caption_en": 12.2,
+        "words_per_caption_ko": 13.2,
+        "total_words_en": 61,
+        "total_words_ko": 66
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "image": {
+        "image_id": "RL_a325_0123_0.png",
+        "resolution": "1280x720",
+        "DPI": 72,
+        "bitdepth": 24,
+        "image_category_1": "문화/예술",
+        "image_category_2": "전시",
+        "image_category_3": "야외전시"
+    },
+    "video": {
+        "video_id": "RL_a325.mp4",
+        "timecode": "00:02:03",
+        "video_category_1": "지역/랜드마크",
+        "video_category_2": "명소",
+        "video_category_3": "랜드마크",
+        "framerate": 30,
+        "production_year": 2016,
+        "media": "지상파",
+        "reference": "SBS_Archive",
+        "copyright": "SBS"
+    },
+    "context": {
+        "caption_en_1": "It is a massive, fantastical sculpture lying on its side in a vibrant, grassy park on a sunny day.",
+        "caption_en_2": "The sculpture appears to be a creature with an enormous, gaping mouth lined with sharp teeth, suggesting a mixture of science fiction and extravagance.",
+        "caption_en_3": "The creature is primarily dark with shades of green and red, giving it a striking, otherworldly appearance.",
+        "caption_en_4": "In the background, a group of three people is having a picnic under the shade of one of the several green trees scattered across the park.",
+        "caption_en_5": "The cityscape is visible in the distance, with tall skyscrapers poking up into a bright, clear blue sky.",
+        "caption_ko_1": "멀리에 고층 빌딩들이 솟아 있는 시내 풍경이 보이며, 조각상의 위압적인 외관은 기분 좋은 환경과 날카로운 대조를 이룹니다.",
+        "caption_ko_2": "조각상은 과학 소설과 화려함을 혼합한 듯한 거대한 입에 날카로운 이빨이 늘어선 생물로 보입니다.",
+        "caption_ko_3": "배경에는 여러 명의 사람들이 여러 그린 나무 그늘 아래서 피크닉을 하고 있습니다.",
+        "caption_ko_4": "장면의 분위기는 평온하고 여유로우며 사람들이 따뜻하고 아름다운 야외 날씨를 즐기고 있습니다.",
+        "caption_ko_5": "현대 미술이 일상 생활에 통합된 예술 작품을 반영할 수 있으며 인간의 창의력과 자연 및 도시 풍경을 연결합니다.",
+        "words_per_caption_en": 20.8,
+        "words_per_caption_ko": 14.0,
+        "total_words_en": 104,
+        "total_words_ko": 70
+    }
+}

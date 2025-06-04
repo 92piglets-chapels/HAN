@@ -1,0 +1,39 @@
+{
+    "image": {
+        "image_id": "FO_0582_0005_0.png",
+        "resolution": "640x360",
+        "DPI": 72,
+        "bitdepth": 24,
+        "image_category_1": "음식",
+        "image_category_2": "한식",
+        "image_category_3": "한식"
+    },
+    "video": {
+        "video_id": "FO_0582.mp4",
+        "timecode": "00:00:05",
+        "video_category_1": "음식",
+        "video_category_2": "한식",
+        "video_category_3": "한식",
+        "framerate": 30,
+        "production_year": 2014,
+        "media": "SNS",
+        "reference": "SBS_Story",
+        "copyright": "SBS"
+    },
+    "context": {
+        "caption_en_1": "You can see a vibrant market stall filled with a colorful array of banchan, Korean side dishes.",
+        "caption_en_2": "There are stainless steel trays filled to the brim with a variety of foods, including pickled greens and kimchi made with different types of vegetables.",
+        "caption_en_3": "The prominent tray in the foreground showcases several pieces of young radish kimchi.",
+        "caption_en_4": "There are various shades of green from the leafy vegetables, and earth tones from the root vegetables and sauces.",
+        "caption_en_5": "Under bright lighting, each dish looks freshly prepared and enticing, with the vibrant colors suggesting freshness and appeal.",
+        "caption_ko_1": "다양한 김치들이 스테인레스 스틸 재질의 사각 트레이 속에 가득 채워져 있습니다.",
+        "caption_ko_2": "다양한 한국 김치가 종류별로 나눠져서 담겨 있고 모두 붉은 고춧가루로 양념한 김치입니다.",
+        "caption_ko_3": "앞쪽의 눈에 띄는 트레이에는 줄기가 달린 작은 무로 만든 아삭한 식감의 김치가 있습니다.",
+        "caption_ko_4": "한국에서는 야외 재래 시장이나 실내 마트의 푸드 코트에서 흔히 볼 수 있는 풍경입니다.",
+        "caption_ko_5": "스테인리스 스틸 트레이에는 다양한 채소로 만든 김치가 가득 차 있습니다.",
+        "words_per_caption_en": 18.4,
+        "words_per_caption_ko": 11.8,
+        "total_words_en": 92,
+        "total_words_ko": 59
+    }
+}

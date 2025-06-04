@@ -1,0 +1,39 @@
+{
+    "image": {
+        "image_id": "AP_a368_0161_0.png",
+        "resolution": "1280x720",
+        "DPI": 72,
+        "bitdepth": 24,
+        "image_category_1": "경제/산업/일상",
+        "image_category_2": "산업",
+        "image_category_3": "농업"
+    },
+    "video": {
+        "video_id": "AP_a368.mp4",
+        "timecode": "00:02:41",
+        "video_category_1": "동식물",
+        "video_category_2": "식물",
+        "video_category_3": "식물",
+        "framerate": 30,
+        "production_year": 2023,
+        "media": "지상파",
+        "reference": "SBS_Archive",
+        "copyright": "SBS"
+    },
+    "context": {
+        "caption_en_1": "A group of four people standing in a shallow muddy water body with lush green grass bordering the edges.",
+        "caption_en_2": "This activity is taking place in the daytime under sunny and clear weather conditions.",
+        "caption_en_3": "The people are wearing knee-high orange boots that stand out starkly against the brownish water.",
+        "caption_en_4": "One person in the foreground is wearing a blue and white floral shirt paired with patterned shorts.",
+        "caption_en_5": "The surroundings are quite vibrant with verdant greenery in the background.",
+        "caption_ko_1": "날씨가 맑은 화창한 날, 시민들이 야외에 있는 넓은 논에 모여 모내기 활동을 합니다.",
+        "caption_ko_2": "모내기를 할 논에 모인 사람들은 모두 무릎까지 오는 길이의 주황색 장화를 착용하고 있습니다.",
+        "caption_ko_3": "뒤에 펼쳐진 푸른 풀밭은 한적하고 자연과 친숙한 시골 풍경을 더욱 강조합니다.",
+        "caption_ko_4": "모내기를 할 논에는 사람들의 발목 정도까지 올 정도로 물이 차 있습니다.",
+        "caption_ko_5": "각지에서 모인 다양한 사람들이 모내기라는 공통된 활동에 참여해 공동체 의식을 강화합니다.",
+        "words_per_caption_en": 15.2,
+        "words_per_caption_ko": 11.8,
+        "total_words_en": 76,
+        "total_words_ko": 59
+    }
+}

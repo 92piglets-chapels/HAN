@@ -1,0 +1,39 @@
+{
+    "image": {
+        "image_id": "SF_a079_0037_0.png",
+        "resolution": "1280x720",
+        "DPI": 72,
+        "bitdepth": 24,
+        "image_category_1": "과학기술",
+        "image_category_2": "공학/기술",
+        "image_category_3": "IT"
+    },
+    "video": {
+        "video_id": "SF_a079.mp4",
+        "timecode": "00:00:37",
+        "video_category_1": "특수촬영",
+        "video_category_2": "CG",
+        "video_category_3": "CG",
+        "framerate": 30,
+        "production_year": 2024,
+        "media": "지상파",
+        "reference": "SBS_Archive",
+        "copyright": "SBS"
+    },
+    "context": {
+        "caption_en_1": "The electrifying scene of a vibrant and lively competition taking place in an indoor arena under dazzling lights.",
+        "caption_en_2": "Several players, split into two opposing teams, are clad in sporting gear, some with purple accents to distinguish their affiliations.",
+        "caption_en_3": "They are energetically standing, crouching, or kneeling on the shiny, reflective floor in a vivid dance of intense athleticism and strategic gameplay.",
+        "caption_en_4": "The backdrop is lit up with a large, high-definition screen displaying the real-time scores and movement of the players, creating an immersive and dynamic atmosphere.",
+        "caption_en_5": "It's a high-stakes game with a score tied at 1-1, as indicated by the scoreboard prominently displayed in the center of the screen.",
+        "caption_ko_1": "이 공간은 매끄러워 보이는 바닥에 삼면이 커다란 화면으로 막혀 있습니다.",
+        "caption_ko_2": "무대는 푸른빛과 보랏빛으로 물들어있고 여러 개의 핀 조명이 설치되어 있습니다.",
+        "caption_ko_3": "이 무대에 있는 사람들은 양 팀으로 나눠 춤 대결을 하고 있는 모습입니다.",
+        "caption_ko_4": "왼쪽에 있는 사람들은 보라색 수건 같은 소품을 가지고 있고 흰색 티셔츠에 검은색 바지를 입고 있습니다.",
+        "caption_ko_5": "오른쪽에 있는 사람은 검은색 모자를 쓰고 여러 색이 혼합된 티셔츠를 입고 있으며 검은색 바지를 입었습니다.",
+        "words_per_caption_en": 21.6,
+        "words_per_caption_ko": 12.4,
+        "total_words_en": 108,
+        "total_words_ko": 62
+    }
+}

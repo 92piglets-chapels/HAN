@@ -1,0 +1,39 @@
+{
+    "image": {
+        "image_id": "SF_0062_0056_0.png",
+        "resolution": "640x360",
+        "DPI": 72,
+        "bitdepth": 24,
+        "image_category_1": "과학기술",
+        "image_category_2": "공학/기술",
+        "image_category_3": "IT"
+    },
+    "video": {
+        "video_id": "SF_0062.mp4",
+        "timecode": "00:00:56",
+        "video_category_1": "특수촬영",
+        "video_category_2": "CG",
+        "video_category_3": "CG",
+        "framerate": 30,
+        "production_year": 2017,
+        "media": "SNS",
+        "reference": "SBS_Story",
+        "copyright": "SBS"
+    },
+    "context": {
+        "caption_en_1": "It shows a person seated at a desk immersed in an engaging virtual reality experience.",
+        "caption_en_2": "The individual is wearing a VR headset which fully covers their eyes transporting them into a different digital world.",
+        "caption_en_3": "They are actively holding a game controller in their hands, which is indicative of participation in a stimulating interactive scene displayed on a monitor.",
+        "caption_en_4": "The desk is cluttered with various tech gadgets, including keyboards, mice, and numerous cables scattered around.",
+        "caption_en_5": "The chair he is sitting on is black, and a black parka is in the top right corner.",
+        "caption_ko_1": "손에 게임 조작 장치를 들고 있으며, 모니터에 표시되는 자극적인 화면과 상호작용하고 있습니다.",
+        "caption_ko_2": "의자에 앉아 있는 사람은 VR 애플리케이션을 테스트하거나, 소프트웨어를 개발하거나, 게임 활동에 참여하고 있습니다.",
+        "caption_ko_3": "책상에 열쇠보드, 마우스, 여러 개의 케이블이 뒤엉켜 있으며, 다양한 기술 장치로 어지럽혀져 있습니다.",
+        "caption_ko_4": "사람이 의자에 앉아 VR 헤드셋을 쓰고 몰입 된 경험에 참여하고 있습니다.",
+        "caption_ko_5": "사무실 의자도 있으며, 의자에는 편안하게 설계된 등받이가 있는 쿠션이 장착되어 있습니다.",
+        "words_per_caption_en": 18.4,
+        "words_per_caption_ko": 12.0,
+        "total_words_en": 92,
+        "total_words_ko": 60
+    }
+}

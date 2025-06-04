@@ -1,0 +1,39 @@
+{
+    "image": {
+        "image_id": "ST_c288_0058_0.png",
+        "resolution": "1280x720",
+        "DPI": 72,
+        "bitdepth": 24,
+        "image_category_1": "경제/산업/일상",
+        "image_category_2": "산업",
+        "image_category_3": "공학"
+    },
+    "video": {
+        "video_id": "ST_c288.mp4",
+        "timecode": "00:00:58",
+        "video_category_1": "과학기술",
+        "video_category_2": "공학/기술",
+        "video_category_3": "반도체",
+        "framerate": 30,
+        "production_year": 2024,
+        "media": "지상파",
+        "reference": "SBS_Archive",
+        "copyright": "SBS"
+    },
+    "context": {
+        "caption_en_1": "Featured is a large industrial facility filled with numerous scientific machines and equipment.",
+        "caption_en_2": "The entire space is brightly lit with white fluorescent lights, creating an intense clinical ambiance.",
+        "caption_en_3": "In the forefront, there is a tall metallic structure with multiple shelves, possibly housing servers or other technical instruments.",
+        "caption_en_4": "Scattered around the room various tables hold a plethora of gadgets wires and metallic objects.",
+        "caption_en_5": "A few individuals dressed in white lab coats are seen walking around intensely focused on their tasks.",
+        "caption_ko_1": "전체 공간은 흰색 형광등으로 밝게 빛나고 있으며 다양한 설비들을 갖추고 있다.",
+        "caption_ko_2": "천장이 높은 이 공간은 여러 과학 기계와 장비로 가득 찬 대규모 산업 시설입니다.",
+        "caption_ko_3": "위에서 아래쪽을 향해 바라본 모습이며 아래쪽에는 서버나 기타 기술 장비를 수용할 수 있는 다수의 선반과 장치들이 있습니다.",
+        "caption_ko_4": "방 곳곳에는 다양한 테이블이 있고 각종 도구, 선, 금속 물체가 놓여져 있습니다.",
+        "caption_ko_5": "시설은 매우 깨끗하고 정돈되어 있고 곳곳에 작업자들이 있으며 섬세하게 작업에 임하는 모습입니다.",
+        "words_per_caption_en": 15.8,
+        "words_per_caption_ko": 13.0,
+        "total_words_en": 79,
+        "total_words_ko": 65
+    }
+}

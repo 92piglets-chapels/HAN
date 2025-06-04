@@ -1,0 +1,39 @@
+{
+    "image": {
+        "image_id": "SL_a312_0029_0.png",
+        "resolution": "1280x720",
+        "DPI": 72,
+        "bitdepth": 24,
+        "image_category_1": "스포츠/레저",
+        "image_category_2": "스포츠",
+        "image_category_3": "구기"
+    },
+    "video": {
+        "video_id": "SL_a312.mp4",
+        "timecode": "00:00:29",
+        "video_category_1": "스포츠/레저",
+        "video_category_2": "스포츠",
+        "video_category_3": "구기",
+        "framerate": 30,
+        "production_year": 2018,
+        "media": "지상파",
+        "reference": "SBS_Archive",
+        "copyright": "SBS"
+    },
+    "context": {
+        "caption_en_1": "A thrilling soccer match takes place on a lush green field.",
+        "caption_en_2": "Seven players scuffle for control of the ball, participating intensely in the action.",
+        "caption_en_3": "A referee in a cyan shirt and black shorts supervises closely.",
+        "caption_en_4": "An orange-clad goalkeeper stands alertly in front of the goalpost.",
+        "caption_en_5": "Advertisements and a few scattered spectators are visible in the stadium background.",
+        "caption_ko_1": "오른쪽 끝에 위치한 골대 앞에 주황색 유니폼을 입은 골키퍼가 서있습니다.",
+        "caption_ko_2": "골키퍼 앞에 파란색과 빨간색 유니폼을 입은 선수들이 공을 두고 경쟁 중입니다.",
+        "caption_ko_3": "골대 라인 앞에 빨간색 유니폼을 입은 선수가 공을 잡고 있습니다.",
+        "caption_ko_4": "축구 골대 뒤에는 흰색 배경에 검은색 글씨가 적힌 광고판이 보입니다.",
+        "caption_ko_5": "주황색 배경에 검은색 글씨가 적힌 광고판 뒤에 붉은 트랙이 보입니다.",
+        "words_per_caption_en": 11.4,
+        "words_per_caption_ko": 10.2,
+        "total_words_en": 57,
+        "total_words_ko": 51
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "image": {
+        "image_id": "AP_b384_0173_0.png",
+        "resolution": "1280x720",
+        "DPI": 72,
+        "bitdepth": 24,
+        "image_category_1": "지역/랜드마크",
+        "image_category_2": "건축",
+        "image_category_3": "인테리어"
+    },
+    "video": {
+        "video_id": "AP_b384.mp4",
+        "timecode": "00:02:53",
+        "video_category_1": "동식물",
+        "video_category_2": "식물",
+        "video_category_3": "식물",
+        "framerate": 30,
+        "production_year": 2022,
+        "media": "지상파",
+        "reference": "SBS_Archive",
+        "copyright": "SBS"
+    },
+    "context": {
+        "caption_en_1": "The scene is dominated by a lush green tree, centrally positioned, drawing the viewer's eye immediately.",
+        "caption_en_2": "The tree is surrounded by an indoor garden setup, featuring a bed of rocks and moss on the floor, contributing to a zen ambiance.",
+        "caption_en_3": "The garden leads out to an outdoor patio area, allowing natural light to flood the space.",
+        "caption_en_4": "On the left, a wooden bench adds a touch of warmth and functionality.",
+        "caption_en_5": "A chair and a table, visible on the patio, suggest a peaceful spot for relaxation and leisure amidst a backdrop of more greenery and pink-blossomed trees.",
+        "caption_ko_1": "거실 문을 활짝 열어 놓은 집에서 내다보이는 마당의 모습입니다.",
+        "caption_ko_2": "중간에는 초록색 잎이 무성한 커다란 나무가 있어 자연의 느낌을 더욱 강하게 해줍니다.",
+        "caption_ko_3": "조금 멀리 보이는 공간에 나무로 만들어진 벤치와 테이블이 놓여 있습니다.",
+        "caption_ko_4": "테이블이 있는 마당에는 강한 햇빛이 내려쬐고 있는듯 눈부시게 빛나는 모습입니다.",
+        "caption_ko_5": "이 건물은 하얀색 벽돌로 만들어진 외벽을 가지고 있어 깔끔해 보입니다.",
+        "words_per_caption_en": 19.0,
+        "words_per_caption_ko": 10.2,
+        "total_words_en": 95,
+        "total_words_ko": 51
+    }
+}

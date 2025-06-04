@@ -1,0 +1,39 @@
+{
+    "image": {
+        "image_id": "FO_b673_0100_0.png",
+        "resolution": "1280x720",
+        "DPI": 72,
+        "bitdepth": 24,
+        "image_category_1": "경제/산업/일상",
+        "image_category_2": "산업",
+        "image_category_3": "사업"
+    },
+    "video": {
+        "video_id": "FO_b673.mp4",
+        "timecode": "00:01:40",
+        "video_category_1": "음식",
+        "video_category_2": "한식",
+        "video_category_3": "한식",
+        "framerate": 30,
+        "production_year": 2017,
+        "media": "지상파",
+        "reference": "SBS_Archive",
+        "copyright": "SBS"
+    },
+    "context": {
+        "caption_en_1": "It is an abundant display of various alcoholic beverages neatly lined up on shelves in what appears to be a convenience store or supermarket.",
+        "caption_en_2": "Rows upon rows of green bottles dominate the view, each row placed meticulously, creating a symmetrical pattern that is visually striking.",
+        "caption_en_3": "Labels on these bottles are adorned with Korean characters and some of them in Chinese characters.",
+        "caption_en_4": "The top right section has clear bottles with various labels, some even showcasing vibrant colors.",
+        "caption_en_5": "The lighting in the store is bright and evenly distributed, casting a gentle glow over the neatly arranged products.",
+        "caption_ko_1": "매장의 조명이 밝고 고르게 분포돼 있어, 정돈된 제품들 위로 부드러운 빛이 드리워집니다.",
+        "caption_ko_2": "초록색 병들이 여러 층으로 된 선반에 일렬로 가지런히 정리 되어 있습니다.",
+        "caption_ko_3": "줄지어 서 있는 초록색과 하얀색 소주병에 붙어 있는 상표에는 한국어가 적혀 있습니다.",
+        "caption_ko_4": "초록색 병들 위에 있는 상단 선반에는 다양한 라벨의 투명한 병들이 있습니다.",
+        "caption_ko_5": "다양한 브랜드의 초록색 병과 투명한 병의 소주병들이 진열장에 전시되어 있습니다.",
+        "words_per_caption_en": 19.0,
+        "words_per_caption_ko": 11.2,
+        "total_words_en": 95,
+        "total_words_ko": 56
+    }
+}

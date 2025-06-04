@@ -1,0 +1,39 @@
+{
+    "image": {
+        "image_id": "AP_a342_0071_0.png",
+        "resolution": "1280x720",
+        "DPI": 72,
+        "bitdepth": 24,
+        "image_category_1": "자연/기상",
+        "image_category_2": "자연/환경",
+        "image_category_3": "바다/해변"
+    },
+    "video": {
+        "video_id": "AP_a342.mp4",
+        "timecode": "00:01:11",
+        "video_category_1": "동식물",
+        "video_category_2": "식물",
+        "video_category_3": "식물",
+        "framerate": 30,
+        "production_year": 2010,
+        "media": "지상파",
+        "reference": "SBS_Archive",
+        "copyright": "SBS"
+    },
+    "context": {
+        "caption_en_1": "A distant ferry sails across a calm body of water, heading toward a small island with misty hills in the background.",
+        "caption_en_2": "The boat appears bright white, contrasting against the dark water and the hazy, muted skyline.",
+        "caption_en_3": "The island in the background has visible structures, including towers, adding some signs of human activity.",
+        "caption_en_4": "The horizon is softened by a light mist or fog, creating a serene and tranquil coastal scene.",
+        "caption_en_5": "The water in the foreground ripples gently, reflecting the soft light of the hazy afternoon sky.",
+        "caption_ko_1": "큰 흰색 배가 조용히 바다 위를 항해하고 있으며, 섬을 향해 가고 있습니다.",
+        "caption_ko_2": "작은 부표나 다른 표식일 수 있는 물체들이 물 곳곳에 흩어져 있습니다.",
+        "caption_ko_3": "바다는 물결이 크게 치지 않고, 고요하고 잠잠하며 햇빛에 반사돼 빛나고 있습니다.",
+        "caption_ko_4": "바다 너머에는 섬들이 있고, 섬 뒤에는 안개에 가려 잘 보이지 않는 다른 섬이 있습니다.",
+        "caption_ko_5": "하늘은 흐리고, 바다 위에는 뿌옇게 안개가 져 있으며, 바다와 하늘이 맞닿아 있습니다.",
+        "words_per_caption_en": 17.0,
+        "words_per_caption_ko": 12.0,
+        "total_words_en": 85,
+        "total_words_ko": 60
+    }
+}

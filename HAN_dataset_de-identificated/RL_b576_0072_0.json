@@ -1,0 +1,39 @@
+{
+    "image": {
+        "image_id": "RL_b576_0072_0.png",
+        "resolution": "1280x720",
+        "DPI": 72,
+        "bitdepth": 24,
+        "image_category_1": "스포츠/레저",
+        "image_category_2": "스포츠",
+        "image_category_3": "레저스포츠"
+    },
+    "video": {
+        "video_id": "RL_b576.mp4",
+        "timecode": "00:01:12",
+        "video_category_1": "지역/랜드마크",
+        "video_category_2": "건축",
+        "video_category_3": "디자인",
+        "framerate": 30,
+        "production_year": 2017,
+        "media": "지상파",
+        "reference": "SBS_Archive",
+        "copyright": "SBS"
+    },
+    "context": {
+        "caption_en_1": "There are people getting ready to embark on a rafting expedition.",
+        "caption_en_2": "A group of four people are fully clad in vibrant safety gear, including helmets and life jackets, in shades of blue, orange and red.",
+        "caption_en_3": "The group is equipped with paddles and are navigating their bright yellow inflatable raft down a river.",
+        "caption_en_4": "There is lush landscape around the river with verdant trees and shrubbery lining its banks.",
+        "caption_en_5": "The rocky formations in the background add to the scenic beauty and sense of adventure.",
+        "caption_ko_1": "사람들은 각각 노를 손에 들고 밝은 노란색 고무보트를 힘차게 저어 나갑니다.",
+        "caption_ko_2": "햇빛 아래 반짝이는 강은 푸르른 나무와 관목이 늘어선 경치를 따라 굽이칩니다.",
+        "caption_ko_3": "배경의 우뚝 솟은 언덕과 바위가 자연의 아름다움이 돋보이며, 사람들은 보트를 타고 있습니다.",
+        "caption_ko_4": "강의 격동적인 흐름에 노를 저으며 앞으로 나아가는 보트를 탄 사람들이 있습니다.",
+        "caption_ko_5": "네 명의 사람들이 파란색과 주황색의 다채로운 안전 장비를 완전히 착용하고 있습니다.",
+        "words_per_caption_en": 16.4,
+        "words_per_caption_ko": 11.2,
+        "total_words_en": 82,
+        "total_words_ko": 56
+    }
+}

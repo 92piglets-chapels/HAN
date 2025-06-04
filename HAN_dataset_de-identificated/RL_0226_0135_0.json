@@ -1,0 +1,39 @@
+{
+    "image": {
+        "image_id": "RL_0226_0135_0.png",
+        "resolution": "640x360",
+        "DPI": 72,
+        "bitdepth": 24,
+        "image_category_1": "경제/산업/일상",
+        "image_category_2": "라이프",
+        "image_category_3": "휴식"
+    },
+    "video": {
+        "video_id": "RL_0226.mp4",
+        "timecode": "00:02:15",
+        "video_category_1": "지역/랜드마크",
+        "video_category_2": "명소",
+        "video_category_3": "관광지",
+        "framerate": 30,
+        "production_year": 2022,
+        "media": "SNS",
+        "reference": "SBS_Story",
+        "copyright": "SBS"
+    },
+    "context": {
+        "caption_en_1": "This is a breathtaking aerial view of a lush, densely-forested area during the autumn season.",
+        "caption_en_2": "Vibrant shades of orange, red, yellow, and green blanket the landscape as deciduous trees display their full splendor.",
+        "caption_en_3": "The forest is nestled in a hilly or mountainous region with winding pathways and scattered buildings that peek out through the vibrant foliage.",
+        "caption_en_4": "It is a serene and picturesque location, ideal for hiking or leisurely walks.",
+        "caption_en_5": "Aside from the natural scenery, man-made structures are subtly integrated into the environment.",
+        "caption_ko_1": "가을철 울창한 숲의 장관을 높은 곳에서 촬영한 모습을 보여주고 있습니다.",
+        "caption_ko_2": "숲은 아주 넓고 구불구불한 오솔길과 함께 나뭇잎 사이로 건물들이 드문드문 보입니다.",
+        "caption_ko_3": "단풍나무가 절정에 이르러 생동감 넘치는 주황색, 빨간색, 노란색으로 풍경을 물들이고 있습니다.",
+        "caption_ko_4": "자연이 만들어 놓은 산에 인간이 만든 길이 어우러져 묘한 분위기를 냅니다.",
+        "caption_ko_5": "산 아래쪽에 마을이 존재하는 듯 왼쪽 아래에는 건물들과 길이 보입니다.",
+        "words_per_caption_en": 16.4,
+        "words_per_caption_ko": 10.6,
+        "total_words_en": 82,
+        "total_words_ko": 53
+    }
+}

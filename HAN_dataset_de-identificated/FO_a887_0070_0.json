@@ -1,0 +1,39 @@
+{
+    "image": {
+        "image_id": "FO_a887_0070_0.png",
+        "resolution": "1280x720",
+        "DPI": 72,
+        "bitdepth": 24,
+        "image_category_1": "음식",
+        "image_category_2": "한식",
+        "image_category_3": "재료"
+    },
+    "video": {
+        "video_id": "FO_a887.mp4",
+        "timecode": "00:01:10",
+        "video_category_1": "음식",
+        "video_category_2": "한식",
+        "video_category_3": "한식",
+        "framerate": 30,
+        "production_year": 2014,
+        "media": "지상파",
+        "reference": "SBS_Archive",
+        "copyright": "SBS"
+    },
+    "context": {
+        "caption_en_1": "Hands are dynamically moving while handling kimchi ingredients on a smooth surface.",
+        "caption_en_2": "The vibrant red of the spicy pepper paste contrasts starkly with the pale white and vibrant green of the cabbage leaves.",
+        "caption_en_3": "The scene is filled with action and energy as the hands work swiftly to mix and spread the paste evenly over the vegetables.",
+        "caption_en_4": "The table is smeared with red pepper paste revealing the intensity of the process.",
+        "caption_en_5": "Surrounding the working area are leaves of cabbage some smeared with red paste others untouched patiently waiting their turn.",
+        "caption_ko_1": "조리대 위에 여러 개의 손이 배추에 양념을 묻혀 김치를 완성하는 모습입니다.",
+        "caption_ko_2": "큰 조리대 위에서 김치 재료를 다루는 손의 역동적인 움직임을 보여줍니다.",
+        "caption_ko_3": "손의 보호와 위생을 위해 사람들이 고무장갑과 위생복을 착용 있는 것처럼 보입니다.",
+        "caption_ko_4": "오른쪽에 준비된 채소는 배추이며 소금에 절인 상태로 양념이 되기 전입니다.",
+        "caption_ko_5": "매운 고춧가루로 만들어진 생생한 빨간색의 양념이 배추 잎의 창백한 흰색 및 선명한 녹색과 뚜렷이 대비됩니다.",
+        "words_per_caption_en": 17.8,
+        "words_per_caption_ko": 11.4,
+        "total_words_en": 89,
+        "total_words_ko": 57
+    }
+}

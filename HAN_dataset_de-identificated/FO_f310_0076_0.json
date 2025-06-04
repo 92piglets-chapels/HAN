@@ -1,0 +1,39 @@
+{
+    "image": {
+        "image_id": "FO_f310_0076_0.png",
+        "resolution": "1280x720",
+        "DPI": 72,
+        "bitdepth": 24,
+        "image_category_1": "음식",
+        "image_category_2": "한식",
+        "image_category_3": "한식"
+    },
+    "video": {
+        "video_id": "FO_f310.mp4",
+        "timecode": "00:01:16",
+        "video_category_1": "음식",
+        "video_category_2": "한식",
+        "video_category_3": "한식",
+        "framerate": 30,
+        "production_year": 2022,
+        "media": "지상파",
+        "reference": "SBS_Archive",
+        "copyright": "SBS"
+    },
+    "context": {
+        "caption_en_1": "A dish of white rice adorned with a generous heap of veggies sits on a cream-colored plate.",
+        "caption_en_2": "The rice, fluffy and cooked, provides a contrast to the veggies, which are dark green.",
+        "caption_en_3": "To the right of the plate, a small bowl of sauce is filled with chopped green onions, red chili flakes, and sesame seeds mixed in a soy-based sauce.",
+        "caption_en_4": "The sauce, nestled in a traditional blue and white patterned bowl with flower designs, adds a splash of color and authenticity to the scene.",
+        "caption_en_5": "Below the bowl of sauce, a reddish-brown wooden spoon rests neatly on a dark woven placemat, suggesting readiness for the meal.",
+        "caption_ko_1": "주위에 몇 개의 작은 화분이 배치되어 있어 있고 뒤에는 초록색의 물건들이 있습니다.",
+        "caption_ko_2": "소스 그릇 아래에는 짙은 색상의 짜임새 있는 식탁매트 위에 적갈색 나무 숟가락이 단정하게 놓여 있습니다.",
+        "caption_ko_3": "전통적인 파란색과 흰색 꽃무늬 그릇에 담긴 물은 진한 붉은색 양념입니다.",
+        "caption_ko_4": "접시 오른쪽에는 잘게 썬 파, 붉은 고추가루, 참깨가 섞인 간장 베이스의 소스가 담긴 작은 그릇이 있습니다.",
+        "caption_ko_5": "하얗고 부드러운 쌀밥은 바삭한 질감의 어두운 녹색 해초와 잘 어울려져 있습니다.",
+        "words_per_caption_en": 21.0,
+        "words_per_caption_ko": 12.8,
+        "total_words_en": 105,
+        "total_words_ko": 64
+    }
+}

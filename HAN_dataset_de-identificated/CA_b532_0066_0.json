@@ -1,0 +1,39 @@
+{
+    "image": {
+        "image_id": "CA_b532_0066_0.png",
+        "resolution": "1280x720",
+        "DPI": 72,
+        "bitdepth": 24,
+        "image_category_1": "경제/산업/일상",
+        "image_category_2": "라이프",
+        "image_category_3": "문화"
+    },
+    "video": {
+        "video_id": "CA_b532.mp4",
+        "timecode": "00:01:06",
+        "video_category_1": "문화/예술",
+        "video_category_2": "영화/연극",
+        "video_category_3": "드라마",
+        "framerate": 30,
+        "production_year": 1992,
+        "media": "지상파",
+        "reference": "SBS_Archive",
+        "copyright": "SBS"
+    },
+    "context": {
+        "caption_en_1": "It is a black-and-white scene set in what appears to be a historical period, with two individuals dressed in traditional Korean attire.",
+        "caption_en_2": "On the left stands a man bowing respectfully, wearing a tall, black, cylindrical hat and a long, flowing hanbok.",
+        "caption_en_3": "On the right is another man, also in elaborate traditional garb, holding what appears to be an official document or perhaps a scroll.",
+        "caption_en_4": "He wears a headband adorned with intricate patterns and symbols, indicating his high status or official position.",
+        "caption_en_5": "The background features several tall, leafless trees, giving the impression of late autumn or early winter.",
+        "caption_ko_1": "왼쪽에 콧수염이 난 남자는 갓과 전통 한복을 착용하고 서 있습니다.",
+        "caption_ko_2": "하늘에 구름이 없는 것으로 보아 대체로 날씨가 맑은 것을 알 수 있습니다.",
+        "caption_ko_3": "오른쪽에는 화려한 전통 의상을 입고 있는 남자가 두루마리를 들고 있습니다.",
+        "caption_ko_4": "두 남자의 뒤에는 갈기가 길게 나 있고 머리에 굴레가 씌워진 말 한 마리가 서 있습니다.",
+        "caption_ko_5": "배경에 보이는 나무들의 가지에 잎이 많이 없는 것으로 보아 계절은 늦가을 또는 겨울로 보입니다.",
+        "words_per_caption_en": 19.4,
+        "words_per_caption_ko": 12.2,
+        "total_words_en": 97,
+        "total_words_ko": 61
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "image": {
+        "image_id": "ST_0242_0027_0.png",
+        "resolution": "640x360",
+        "DPI": 72,
+        "bitdepth": 24,
+        "image_category_1": "과학기술",
+        "image_category_2": "과학",
+        "image_category_3": "로봇"
+    },
+    "video": {
+        "video_id": "ST_0242.mp4",
+        "timecode": "00:00:27",
+        "video_category_1": "과학기술",
+        "video_category_2": "과학",
+        "video_category_3": "로봇",
+        "framerate": 30,
+        "production_year": 2021,
+        "media": "SNS",
+        "reference": "SBS_NEWS",
+        "copyright": "SBS"
+    },
+    "context": {
+        "caption_en_1": "There is a white autonomous robot standing near a sliding glass door.",
+        "caption_en_2": "The robot is sleek and cylindrical, featuring a small screen on top that is tilted towards an angle.",
+        "caption_en_3": "The sliding glass door is partially visible, suggesting that the robot walked through it recently.",
+        "caption_en_4": "The room behind the robot includes a checkered red and white wall with bright overhead lights.",
+        "caption_en_5": "The green arrow and Korean letters to the right suggests that the room in the background is a part of a hospital.",
+        "caption_ko_1": "흰색으로 된 벽 사이의 입구 앞에 하얀색 로봇이 서 있습니다.",
+        "caption_ko_2": "오른쪽 벽에는 연두색 바탕에 흰색 화살표시로 병원 진료과 방향을 안내하고 있습니다.",
+        "caption_ko_3": "하얀색 로봇의 얼굴 부분은 검은색 바탕의 키패드 모양이며 몸은 사각형 모양입니다.",
+        "caption_ko_4": "문 안의 벽은 빨간색과 흰색이 체크무늬로 되어 있고 위로 주황색의 조명이 비치고 있습니다.",
+        "caption_ko_5": "로봇의 왼쪽 벽면 중간에는 나무 재질의 연갈색 손잡이가 길게 이어져 있습니다.",
+        "words_per_caption_en": 16.6,
+        "words_per_caption_ko": 11.2,
+        "total_words_en": 83,
+        "total_words_ko": 56
+    }
+}

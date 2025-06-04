@@ -1,0 +1,39 @@
+{
+    "image": {
+        "image_id": "NW_f205_0023_0.png",
+        "resolution": "1280x720",
+        "DPI": 72,
+        "bitdepth": 24,
+        "image_category_1": "동식물",
+        "image_category_2": "동물",
+        "image_category_3": "야생동물"
+    },
+    "video": {
+        "video_id": "NW_f205.mp4",
+        "timecode": "00:00:23",
+        "video_category_1": "자연/기상",
+        "video_category_2": "계절/날씨",
+        "video_category_3": "봄",
+        "framerate": 30,
+        "production_year": 2021,
+        "media": "지상파",
+        "reference": "SBS_Archive",
+        "copyright": "SBS"
+    },
+    "context": {
+        "caption_en_1": "Two chipmunks sit gracefully atop a weathered tree stump on a sunny day.",
+        "caption_en_2": "The chipmunks are surrounded by the rich greenery of the forest, with leaves and foliage bathed in the soft, warm glow of sunlight filtering through the canopy.",
+        "caption_en_3": "The vivid green leaves mix with patches of shadow, creating an intricate play of light and dark throughout the background.",
+        "caption_en_4": "Above the chipmunks, a pine tree's limbs extend their needle-clad branches, adding texture and depth to the scene with their fine, spiky needles.",
+        "caption_en_5": "One chipmunk is in a moment of observant stillness, its eyes keenly focused on something out of frame, suggesting a sense of alert watchfulness.",
+        "caption_ko_1": "숲속에 밝은 빛이 스며들고 나무 그루터기 위에 우아하게 앉아 있는 다람쥐가 돋보입니다.",
+        "caption_ko_2": "생생한 녹색 잎사귀가 그림자와 섞여 배경 전체에 걸쳐 섬세한 빛과 어두운 패턴이 형성됩니다.",
+        "caption_ko_3": "나무 둥치에 올라선 다람쥐 머리 위로 바늘처럼 날카로운 소나무 가지들이 뻗어 있습니다.",
+        "caption_ko_4": "다람쥐는 고개를 들어 나뭇가지 위의 무언가를 관찰하고 있는 듯한 모습입니다.",
+        "caption_ko_5": "다람쥐는 숲의 풍성한 녹색 배경에 둘러싸여 있으며, 나뭇잎과 잎사귀는 나뭇잎 사이로 필터를 통해 들어오는 부드럽고 따뜻한 햇빛을 받고 있습니다.",
+        "words_per_caption_en": 21.4,
+        "words_per_caption_ko": 13.2,
+        "total_words_en": 107,
+        "total_words_ko": 66
+    }
+}

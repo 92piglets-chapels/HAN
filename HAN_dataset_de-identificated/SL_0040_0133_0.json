@@ -1,0 +1,39 @@
+{
+    "image": {
+        "image_id": "SL_0040_0133_0.png",
+        "resolution": "640x360",
+        "DPI": 72,
+        "bitdepth": 24,
+        "image_category_1": "스포츠/레저",
+        "image_category_2": "스포츠",
+        "image_category_3": "무술"
+    },
+    "video": {
+        "video_id": "SL_0040.mp4",
+        "timecode": "00:02:13",
+        "video_category_1": "스포츠/레저",
+        "video_category_2": "스포츠",
+        "video_category_3": "무술",
+        "framerate": 30,
+        "production_year": 2015,
+        "media": "SNS",
+        "reference": "SBS_Story",
+        "copyright": "SBS"
+    },
+    "context": {
+        "caption_en_1": "Two individuals are engaging in a judo practice session on a colorful mat inside a spacious gym.",
+        "caption_en_2": "One person, wearing a blue gi with a yellow and black belt, is in mid-action with one hand pressed against the mat for support.",
+        "caption_en_3": "The other individual, donning a white gi, is lying on their back with legs raised high and arms stretched out to the side, seemingly in a defensive or countering position.",
+        "caption_en_4": "In the background, a few pieces of furniture including chairs and a brown sofa suggest a comfortable waiting or resting area.",
+        "caption_en_5": "The dark windows along the walls suggest that it's nighttime.",
+        "caption_ko_1": "흰 도복을 입은 사람은 다리를 높이 들어 올리고 팔은 옆으로 뻗어 등을 대고 누워 있습니다.",
+        "caption_ko_2": "뒤에 있는 배경에는 갈색, 파란색 등 여러 종류의 의자가 있습니다.",
+        "caption_ko_3": "파란 도복을 입은 한 사람은 매트에 한 손을 짚고 지지하면서 몸을 앞으로 숙이는 행동을 하고 있습니다.",
+        "caption_ko_4": "넓은 체육관 안에서 두 사람이 열심히 유도 연습에 임하고 있습니다.",
+        "caption_ko_5": "빨강, 회색, 파랑으로 구분된 다양한 색상의 매트가 바닥에 깔려 있습니다.",
+        "words_per_caption_en": 20.4,
+        "words_per_caption_ko": 12.2,
+        "total_words_en": 102,
+        "total_words_ko": 61
+    }
+}

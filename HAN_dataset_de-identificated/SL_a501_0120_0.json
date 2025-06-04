@@ -1,0 +1,39 @@
+{
+    "image": {
+        "image_id": "SL_a501_0120_0.png",
+        "resolution": "1280x720",
+        "DPI": 72,
+        "bitdepth": 24,
+        "image_category_1": "스포츠/레저",
+        "image_category_2": "스포츠",
+        "image_category_3": "항공"
+    },
+    "video": {
+        "video_id": "SL_a501.mp4",
+        "timecode": "00:02:00",
+        "video_category_1": "스포츠/레저",
+        "video_category_2": "스포츠",
+        "video_category_3": "항공",
+        "framerate": 30,
+        "production_year": 2011,
+        "media": "지상파",
+        "reference": "SBS_Archive",
+        "copyright": "SBS"
+    },
+    "context": {
+        "caption_en_1": "It shows a breathtaking aerial view of a paraglider soaring over a sprawling landscape.",
+        "caption_en_2": "A lone paraglider with a vivid orange canopy glides gracefully through the crisp sky.",
+        "caption_en_3": "Below, vast fields are lined up in orderly squares, speckled with patches of snow.",
+        "caption_en_4": "A winding river carves a path through the valleys, reflecting the soft winter sunlight.",
+        "caption_en_5": "Majestic mountains, some dusted with snow, stand tall in the background with their peaks reaching towards the sky.",
+        "caption_ko_1": "하늘에 떠 있는 패러글라이더는 맑은 하늘을 우아하게 활공을 하고 있습니다.",
+        "caption_ko_2": "산들이 배경에 우뚝 서 있고 그 일부는 눈으로 덮여 있으며 그들의 봉우리는 하늘을 향해 뻗어 있습니다.",
+        "caption_ko_3": "하늘은 연한 파란색으로 거의 지평선과 합쳐져 시각적으로 아주 몽환적인 장면을 만듭니다.",
+        "caption_ko_4": "강은 산을 끼고 있으며 얼어붙은 채로 눈이 하얗게 쌓여 있습니다.",
+        "caption_ko_5": "화면 오른쪽에는 갈색과 검은색을 띤 경작지나 들판이 네모난 형태로 나뉘어져 있습니다.",
+        "words_per_caption_en": 14.8,
+        "words_per_caption_ko": 11.6,
+        "total_words_en": 74,
+        "total_words_ko": 58
+    }
+}

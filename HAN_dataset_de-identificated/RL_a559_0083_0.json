@@ -1,0 +1,39 @@
+{
+    "image": {
+        "image_id": "RL_a559_0083_0.png",
+        "resolution": "1280x720",
+        "DPI": 72,
+        "bitdepth": 24,
+        "image_category_1": "지역/랜드마크",
+        "image_category_2": "건축",
+        "image_category_3": "건물"
+    },
+    "video": {
+        "video_id": "RL_a559.mp4",
+        "timecode": "00:01:23",
+        "video_category_1": "지역/랜드마크",
+        "video_category_2": "건축",
+        "video_category_3": "건물",
+        "framerate": 30,
+        "production_year": 2023,
+        "media": "지상파",
+        "reference": "SBS_Archive",
+        "copyright": "SBS"
+    },
+    "context": {
+        "caption_en_1": "The purpose of the person appears to be related to inspecting or directing attention to the construction area.",
+        "caption_en_2": "To the right, a large dark-colored SUV is parked next to a construction site fenced off with corrugated temporary walls.",
+        "caption_en_3": "Bright orange traffic cones are prominently placed near the car, indicating caution or restricted access.",
+        "caption_en_4": "On the left side, a charming white house with a wooden window frame and pot plants is visible.",
+        "caption_en_5": "The sky is a clear blue, suggesting it could be daytime.",
+        "caption_ko_1": "커다란 검은색 SUV가 오른쪽에 보이는 회색 펜스 앞에 주차되어 있습니다.",
+        "caption_ko_2": "검은색 SUV 옆에는 주황색과 흰색이 들어간 라바콘이 세워져 있어 누군가의 접근을 막고 있습니다.",
+        "caption_ko_3": "임시 펜스로 둘러싸인 공사 현장 뒤에 흰색 고층 아파트가 보입니다.",
+        "caption_ko_4": "거리에 서 있는 남자 왼쪽에는 목재 창틀이 달려 있는 흰색 집 앞에 화분이 놓여 있습니다.",
+        "caption_ko_5": "푸른 하늘에 구름이 한 점도 보이지 않아 날씨가 맑은 것을 알 수 있습니다.",
+        "words_per_caption_en": 16.4,
+        "words_per_caption_ko": 12.2,
+        "total_words_en": 82,
+        "total_words_ko": 61
+    }
+}

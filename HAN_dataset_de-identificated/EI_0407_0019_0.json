@@ -1,0 +1,39 @@
+{
+    "image": {
+        "image_id": "EI_0407_0019_0.png",
+        "resolution": "640x360",
+        "DPI": 72,
+        "bitdepth": 24,
+        "image_category_1": "경제/산업/일상",
+        "image_category_2": "산업",
+        "image_category_3": "어업"
+    },
+    "video": {
+        "video_id": "EI_0407.mp4",
+        "timecode": "00:00:19",
+        "video_category_1": "경제/산업/일상",
+        "video_category_2": "산업",
+        "video_category_3": "어업",
+        "framerate": 30,
+        "production_year": 2016,
+        "media": "SNS",
+        "reference": "SBS_Story",
+        "copyright": "SBS"
+    },
+    "context": {
+        "caption_en_1": "It's a large vessel afloat on a serene blue sea draped in various fishing nets and surrounded by buoys.",
+        "caption_en_2": "The boat itself has a white structure on top with a mast complemented by a vivid blue deck.",
+        "caption_en_3": "Numerous ropes and nets are stretched out from the boat, likely for fishing.",
+        "caption_en_4": "The deck is bustling with activities and equipment, indicating this ship's active day at sea.",
+        "caption_en_5": "The bright orange buoys around the boat highlight the areas where the nets are spread out in the water.",
+        "caption_ko_1": "푸른 바다 위에 어업 활동을 하는 큰 배 한 척이 있습니다.",
+        "caption_ko_2": "큰 배의 내부에 흰색 구조물이 보이고 선명한 파란색 갑판이 있습니다.",
+        "caption_ko_3": "배 주위에 밝은 주황색 부표가 놓여 있으며 푸른 바다 색깔과 대조됩니다.",
+        "caption_ko_4": "배의 옆에는 배와 동일한 길이의 물체가 놓여 있고 초록색 그물이 보입니다.",
+        "caption_ko_5": "배의 파란색 갑판에서 녹색 그물을 들어 올리는 여러 사람들이 보입니다.",
+        "words_per_caption_en": 16.8,
+        "words_per_caption_ko": 10.6,
+        "total_words_en": 84,
+        "total_words_ko": 53
+    }
+}

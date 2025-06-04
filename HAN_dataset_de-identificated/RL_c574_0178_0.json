@@ -1,0 +1,39 @@
+{
+    "image": {
+        "image_id": "RL_c574_0178_0.png",
+        "resolution": "1280x720",
+        "DPI": 72,
+        "bitdepth": 24,
+        "image_category_1": "경제/산업/일상",
+        "image_category_2": "산업",
+        "image_category_3": "교육"
+    },
+    "video": {
+        "video_id": "RL_c574.mp4",
+        "timecode": "00:02:58",
+        "video_category_1": "지역/랜드마크",
+        "video_category_2": "건축",
+        "video_category_3": "건물",
+        "framerate": 30,
+        "production_year": 2024,
+        "media": "지상파",
+        "reference": "SBS_Archive",
+        "copyright": "SBS"
+    },
+    "context": {
+        "caption_en_1": "Featured is a group of children curiously peering out from a rustic wooden window framed by an aged, cracked wall.",
+        "caption_en_2": "There are around eight children visible in the image, with their faces capturing the essence of innocence and curiosity.",
+        "caption_en_3": "The children are dressed in light-colored garments, which appear to be traditional attire.",
+        "caption_en_4": "The children's expressions range from smiling delight to thoughtful contemplation.",
+        "caption_en_5": "The window frame and the rough texture of the wall provide an atmosphere of simplicity and nostalgia.",
+        "caption_ko_1": "여러 명의 아이가 나무로 만든 큰 창문에 모여 미소를 띠고 있습니다.",
+        "caption_ko_2": "아이들의 표정은 웃음 가득한 기쁜 얼굴부터 깊은 생각에 잠긴 듯한 모습까지 다양합니다.",
+        "caption_ko_3": "아이들은 모두 가벼워 보이는 전통 옷을 입고 있어서 과거의 풍경임을 알 수 있습니다.",
+        "caption_ko_4": "한 무리의 아이들이 나무 창문에서 호기심 가득한 표정으로 밖을 바라보고 있습니다.",
+        "caption_ko_5": "흙으로 만든 듯한 벽과 나무 창틀의 거친 질감은 향수를 불러일으킵니다.",
+        "words_per_caption_en": 15.8,
+        "words_per_caption_ko": 11.4,
+        "total_words_en": 79,
+        "total_words_ko": 57
+    }
+}

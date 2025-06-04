@@ -1,0 +1,39 @@
+{
+    "image": {
+        "image_id": "EI_f536_0008_0.png",
+        "resolution": "1280x720",
+        "DPI": 72,
+        "bitdepth": 24,
+        "image_category_1": "경제/산업/일상",
+        "image_category_2": "산업",
+        "image_category_3": "어업"
+    },
+    "video": {
+        "video_id": "EI_f536.mp4",
+        "timecode": "00:00:08",
+        "video_category_1": "경제/산업/일상",
+        "video_category_2": "라이프",
+        "video_category_3": "건강/웰빙",
+        "framerate": 30,
+        "production_year": 2024,
+        "media": "지상파",
+        "reference": "SBS_Archive",
+        "copyright": "SBS"
+    },
+    "context": {
+        "caption_en_1": "Two workers dressed in green rain gear are pulling dark seaweed onto the red and white boat.",
+        "caption_en_2": "The boat's deck is filled with dark black seaweed and covered partially with a bright blue covering.",
+        "caption_en_3": "The water surrounding the boat has a greyish tone with black net structures visible in the background.",
+        "caption_en_4": "The workers are wearing yellow gloves and are handling wet ropes to lift seaweed from the water.",
+        "caption_en_5": "The boat is positioned in shallow waters, where the water has a smooth surface reflecting the grey sky.",
+        "caption_ko_1": "어선 대규모 어업 작업 중이며 바다 위로 쳐진 그물이 양쪽으로 설치되어 있습니다.",
+        "caption_ko_2": "배를 타고 두 명의 사람이 그물을 잡고 노동 과정에 참여하고 있는 모습입니다.",
+        "caption_ko_3": "어선은 결박되어 묶은 상태이며 그물과 다양한 어업 장비로 작업 중인 사람들이 있습니다.",
+        "caption_ko_4": "물에 떠 있는 어선은 노란색과 하늘색, 주황색과 색바랜 빨간색으로 이루어져 있습니다.",
+        "caption_ko_5": "두 사람은 파란색 긴 장화와 초록색의 방수 옷을 입고 노란색 장갑을 착용하고 있습니다.",
+        "words_per_caption_en": 17.2,
+        "words_per_caption_ko": 12.0,
+        "total_words_en": 86,
+        "total_words_ko": 60
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "image": {
+        "image_id": "CA_a579_0031_0.png",
+        "resolution": "1280x720",
+        "DPI": 72,
+        "bitdepth": 24,
+        "image_category_1": "문화/예술",
+        "image_category_2": "전시",
+        "image_category_3": "실내전시"
+    },
+    "video": {
+        "video_id": "CA_a579.mp4",
+        "timecode": "00:00:31",
+        "video_category_1": "문화/예술",
+        "video_category_2": "전시",
+        "video_category_3": "실내전시",
+        "framerate": 30,
+        "production_year": 2016,
+        "media": "지상파",
+        "reference": "SBS_Archive",
+        "copyright": "SBS"
+    },
+    "context": {
+        "caption_en_1": "This is a serene and sophisticated art gallery potentially situated in a contemporary museum.",
+        "caption_en_2": "The room is spacious, and the floor is polished, making it gleam under the tranquil lighting.",
+        "caption_en_3": "On the walls are large exquisite scrolls and framed artwork, each depicting picturesque landscapes and nature subjects.",
+        "caption_en_4": "Along the left wall, four vertical scrolls display intricate mountainous scenes that are detailed with delicate brushstrokes and muted colors.",
+        "caption_en_5": "Opposite are six similar scrolls, all encased in simple yet elegant frames.",
+        "caption_ko_1": "넓고 매끄러운 바닥은 광택이 나며 조용한 조명 아래 반사되고 있습니다.",
+        "caption_ko_2": "왼쪽 벽에는 다섯 개의 세로 두루마리와 은은한 색조의 산악 풍경이 자세히 묘사되고 있습니다.",
+        "caption_ko_3": "고요한 전시실에는 다양한 풍경 전통 산수화가 전시되어 있으며, 조명이 작품을 비추고 있습니다.",
+        "caption_ko_4": "긴 파노라마 형식의 산수화가 아름다운 풍경을 연속적으로 보여주어 관람의 몰입을 높입니다.",
+        "caption_ko_5": "벽에는 멋진 두루마리와 액자 작품들이 걸려 있으며 각각 아름다운 풍경과 자연 주제를 묘사하고 있습니다.",
+        "words_per_caption_en": 15.8,
+        "words_per_caption_ko": 12.0,
+        "total_words_en": 79,
+        "total_words_ko": 60
+    }
+}

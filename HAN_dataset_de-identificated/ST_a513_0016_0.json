@@ -1,0 +1,39 @@
+{
+    "image": {
+        "image_id": "ST_a513_0016_0.png",
+        "resolution": "1280x720",
+        "DPI": 72,
+        "bitdepth": 24,
+        "image_category_1": "경제/산업/일상",
+        "image_category_2": "산업",
+        "image_category_3": "의학"
+    },
+    "video": {
+        "video_id": "ST_a513.mp4",
+        "timecode": "00:00:16",
+        "video_category_1": "과학기술",
+        "video_category_2": "공학/기술",
+        "video_category_3": "의료",
+        "framerate": 30,
+        "production_year": 2019,
+        "media": "지상파",
+        "reference": "SBS_Archive",
+        "copyright": "SBS"
+    },
+    "context": {
+        "caption_en_1": "There is a laboratory or medical area filled with medical equipment and people dressed in white protective full-body suits.",
+        "caption_en_2": "There appears to be a person lying on a white hospital bed on the right.",
+        "caption_en_3": "One person is leaning forward, looking at the monitor on a wooden desk.",
+        "caption_en_4": "There are two individuals behind the partitioned desks who appear to be talking to the person looking at the monitor.",
+        "caption_en_5": "There are two monitors, keyboards and mice on the wooden desk.",
+        "caption_ko_1": "세 명의 연구원들이 폐쇄된 공간에서 무언가를 연구하는 듯 협심하여 다양한 활동에 참여하고 있습니다.",
+        "caption_ko_2": "한 사람은 컴퓨터에 앞에 허리를 숙이고 서서 화면의 데이터를 조작하며 열심히 일하고 있습니다.",
+        "caption_ko_3": "실험실에는 고급 의료 장비와 흰색 방호복을 입은 세 명의 연구원들이 있습니다.",
+        "caption_ko_4": "나무 재질의 책상 위에는 두대의 컴퓨터가 놓여져 있으며 왼쪽에는 서류들이 잘 정돈되어 있습니다.",
+        "caption_ko_5": "또 다른 사람은 유리벽 앞에 서서 신중하게 장비를 조사하거나 실험을 하고 있습니다.",
+        "words_per_caption_en": 15.6,
+        "words_per_caption_ko": 12.4,
+        "total_words_en": 78,
+        "total_words_ko": 62
+    }
+}

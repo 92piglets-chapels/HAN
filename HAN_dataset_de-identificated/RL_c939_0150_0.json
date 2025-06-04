@@ -1,0 +1,39 @@
+{
+    "image": {
+        "image_id": "RL_c939_0150_0.png",
+        "resolution": "1280x720",
+        "DPI": 72,
+        "bitdepth": 24,
+        "image_category_1": "지역/랜드마크",
+        "image_category_2": "건축",
+        "image_category_3": "건물"
+    },
+    "video": {
+        "video_id": "RL_c939.mp4",
+        "timecode": "00:02:30",
+        "video_category_1": "지역/랜드마크",
+        "video_category_2": "건축",
+        "video_category_3": "건물",
+        "framerate": 30,
+        "production_year": 2019,
+        "media": "지상파",
+        "reference": "SBS_Archive",
+        "copyright": "SBS"
+    },
+    "context": {
+        "caption_en_1": "A breathtaking panorama of lush green hills is interspersed with rich hues of autumn foliage.",
+        "caption_en_2": "Dominating the background is a majestic range of craggy, greyish mountains towering under a bright blue sky.",
+        "caption_en_3": "The scene deftly captures the transition from verdant green to the warm yellow and burnt orange leaves of fall.",
+        "caption_en_4": "Amid the forest expanse, a solitary power tower stands, its metal framework blending subtly yet distinctly with the natural surroundings.",
+        "caption_en_5": "Near the bottom of the scene, nestled among the trees, small structures and roads are visible, suggesting a secluded community.",
+        "caption_ko_1": "하단에는 나무들 사이에 작은 구조물과 도로가 보이며, 가운데 큰 송전탑이 보입니다.",
+        "caption_ko_2": "녹색에서 노랗고 불타는 오렌지색 잎으로 가득한 단풍이 든 산이 보입니다.",
+        "caption_ko_3": "배경에는 밝은 파란 하늘 아래 거대한 회색 산들이 우뚝 솟아 있습니다.",
+        "caption_ko_4": "울창한 녹색 언덕 사이에 가을 단풍의 풍부한 색이 눈에 띕니다.",
+        "caption_ko_5": "숲의 광대한 지역에는 고립된 송전탑 하나가 서 있으며, 주위에는 도로가 펼쳐져 있습니다.",
+        "words_per_caption_en": 18.2,
+        "words_per_caption_ko": 10.8,
+        "total_words_en": 91,
+        "total_words_ko": 54
+    }
+}

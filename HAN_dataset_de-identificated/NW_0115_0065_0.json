@@ -1,0 +1,39 @@
+{
+    "image": {
+        "image_id": "NW_0115_0065_0.png",
+        "resolution": "640x360",
+        "DPI": 72,
+        "bitdepth": 24,
+        "image_category_1": "지역/랜드마크",
+        "image_category_2": "여행",
+        "image_category_3": "피서지"
+    },
+    "video": {
+        "video_id": "NW_0115.mp4",
+        "timecode": "00:01:05",
+        "video_category_1": "자연/기상",
+        "video_category_2": "계절/날씨",
+        "video_category_3": "여름",
+        "framerate": 30,
+        "production_year": 2016,
+        "media": "SNS",
+        "reference": "SBS_Story",
+        "copyright": "SBS"
+    },
+    "context": {
+        "caption_en_1": "This is a bustling beach with a myriad of people enjoying the seaside.",
+        "caption_en_2": "The beach is a vast expanse of golden sand stretching towards the calm blue ocean under a bright clear sky.",
+        "caption_en_3": "There are numerous beach umbrellas predominantly blue neatly arranged in rows creating a picturesque scene of organized leisure.",
+        "caption_en_4": "Groups of people are scattered along the shoreline some lounging under umbrellas, others engaged in lively activities such as playing beach games or walking along the sand.",
+        "caption_en_5": "A distant view of the horizon reveals gentle waves lapping at the shore.",
+        "caption_ko_1": "해변은 맑은 하늘 아래 조용하고 푸른 바다를 향해 뻗어 있는 광활한 황금 모래로 이루어져 있습니다.",
+        "caption_ko_2": "해변 이용객의 안전을 보장하기 위한 인명 구조원이 상주하는 눈에 띄는 높은 구조물이 있습니다.",
+        "caption_ko_3": "바닷가를 따라 모래 위에 파란색과 흰색의 수많은 파라솔이 줄지어 설치되어 있습니다.",
+        "caption_ko_4": "해수욕을 즐기기 위해 많은 사람들이 넓은 모래사장 위에 모여 있습니다.",
+        "caption_ko_5": "어떤 사람들은 파라솔 아래에서 휴식을 취하고 다른 이들은 모래를 따라 걷는 등의 활동을 하고 있습니다.",
+        "words_per_caption_en": 18.2,
+        "words_per_caption_ko": 12.8,
+        "total_words_en": 91,
+        "total_words_ko": 64
+    }
+}

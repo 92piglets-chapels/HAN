@@ -1,0 +1,39 @@
+{
+    "image": {
+        "image_id": "FO_0203_0182_0.png",
+        "resolution": "640x360",
+        "DPI": 72,
+        "bitdepth": 24,
+        "image_category_1": "경제/산업/일상",
+        "image_category_2": "산업",
+        "image_category_3": "사업"
+    },
+    "video": {
+        "video_id": "FO_0203.mp4",
+        "timecode": "00:03:02",
+        "video_category_1": "음식",
+        "video_category_2": "디저트",
+        "video_category_3": "분식",
+        "framerate": 30,
+        "production_year": 2024,
+        "media": "SNS",
+        "reference": "SBS_Story",
+        "copyright": "SBS"
+    },
+    "context": {
+        "caption_en_1": "A skilled individual delicately crafts vibrant, red-hued desserts resembling beautifully intricate rose blossoms.",
+        "caption_en_2": "The person’s gloved hands suggest a high level of hygiene and precision.",
+        "caption_en_3": "Each dessert, carefully placed on a metal tray, exudes a glossy sheen, indicating freshness and meticulous preparation.",
+        "caption_en_4": "In the background, a caption in Korean highlights the authenticity and dedication involved in creating these delightful treats.",
+        "caption_en_5": "These desserts are likely prepared with high-quality, fresh ingredients to offer a visually appealing and delicious experience.",
+        "caption_ko_1": "과자는 광택 있는 윤기를 자랑하며 은색 쟁반 위에 가지런히 놓여 있습니다.",
+        "caption_ko_2": "제빵사가 섬세하게 정교한 장미 모양의 붉은 과자를 잘 조각하는 모습입니다.",
+        "caption_ko_3": "각 과자는 신선하고 정밀하게 준비된 것으로 보이며 세심하게 제조하고 있습니다.",
+        "caption_ko_4": "전체적인 분위기는 주방 또는 제과점으로 잘 정돈되고 조명이 잘 되어 있으며 청결함과 세심함이 강조됩니다.",
+        "caption_ko_5": "과자는 신선한 재료로 준비되어 시각적으로 매력적이고 맛있는 경험을 제공하려는 모습이 보입니다.",
+        "words_per_caption_en": 15.4,
+        "words_per_caption_ko": 11.2,
+        "total_words_en": 77,
+        "total_words_ko": 56
+    }
+}

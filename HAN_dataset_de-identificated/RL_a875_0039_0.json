@@ -1,0 +1,39 @@
+{
+    "image": {
+        "image_id": "RL_a875_0039_0.png",
+        "resolution": "1280x720",
+        "DPI": 72,
+        "bitdepth": 24,
+        "image_category_1": "자연/기상",
+        "image_category_2": "천체/우주",
+        "image_category_3": "구름"
+    },
+    "video": {
+        "video_id": "RL_a875.mp4",
+        "timecode": "00:00:39",
+        "video_category_1": "지역/랜드마크",
+        "video_category_2": "명소",
+        "video_category_3": "랜드마크",
+        "framerate": 30,
+        "production_year": 2024,
+        "media": "지상파",
+        "reference": "SBS_Archive",
+        "copyright": "SBS"
+    },
+    "context": {
+        "caption_en_1": "A towering structure that pierces the cloudy sky is surrounded by lush green foliage stands in the center of the frame.",
+        "caption_en_2": "The tower is likely an observation or communication tower that gradually narrows as it reaches its peak crowned with red and white stripes.",
+        "caption_en_3": "The sky is filled with a blanket of clouds creating a serene backdrop for the imposing structure.",
+        "caption_en_4": "The foreground is dominated by an array of green trees and flowering plants as some of which have bright yellow and pale purple blossoms.",
+        "caption_en_5": "Beyond the trees, a gentle hill can be seen covered in dense greenery and providing a subtle contrast to the grayish clouds above.",
+        "caption_ko_1": "먹구름이 껴있는 하늘 아래에 밝은 연두색 산과 탑 등이 있습니다.",
+        "caption_ko_2": "왼쪽에 위치한 짙은 녹색 잎의 나무 앞에는 노란색 꽃이 핀 나무가 있습니다.",
+        "caption_ko_3": "흰색 몸통에 꼭대기가 빨간 탑 하나가 산 위에 세워져 있습니다.",
+        "caption_ko_4": "산 너머에는 밝은 연두색 잎이 자란 나무가 여러 그루 있습니다.",
+        "caption_ko_5": "흰색 몸통과 꼭대기 부분이 빨간색으로 이루어진 탑 중간에는 회색으로 칠해져 있습니다.",
+        "words_per_caption_en": 21.6,
+        "words_per_caption_ko": 10.6,
+        "total_words_en": 108,
+        "total_words_ko": 53
+    }
+}

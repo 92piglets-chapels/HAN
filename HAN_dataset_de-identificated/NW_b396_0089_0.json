@@ -1,0 +1,39 @@
+{
+    "image": {
+        "image_id": "NW_b396_0089_0.png",
+        "resolution": "1280x720",
+        "DPI": 72,
+        "bitdepth": 24,
+        "image_category_1": "자연/기상",
+        "image_category_2": "자연/환경",
+        "image_category_3": "도시/시골"
+    },
+    "video": {
+        "video_id": "NW_b396.mp4",
+        "timecode": "00:01:29",
+        "video_category_1": "자연/기상",
+        "video_category_2": "계절/날씨",
+        "video_category_3": "봄",
+        "framerate": 30,
+        "production_year": 2024,
+        "media": "지상파",
+        "reference": "SBS_Archive",
+        "copyright": "SBS"
+    },
+    "context": {
+        "caption_en_1": "It's two men engaged in an outdoor activity in front of a house.",
+        "caption_en_2": "One man stands in the center, grasping a purple axe.",
+        "caption_en_3": "The ground around him is littered with chopped wood and a tree stump.",
+        "caption_en_4": "He seems focused on his task while the man slightly to the right is filming with a professional video camera.",
+        "caption_en_5": "This man is dressed in a dark jacket with red accents and a patterned hat.",
+        "caption_ko_1": "노란색 장갑을 낀 남성이 보라색 손잡이가 있는 도끼를 들고 서 있습니다.",
+        "caption_ko_2": "갈색 낙엽으로 덮인 땅 위에 톱밥과 잘린 나무들이 흩어져 있습니다.",
+        "caption_ko_3": "오른쪽에 서 있는 남성의 두 다리 사이에 회색의 금속 물체가 놓여 있습니다.",
+        "caption_ko_4": "왼쪽에 서 있는 남성은 베이지색 모자와 짙은 녹색 재킷을 착용하고 있습니다.",
+        "caption_ko_5": "오른쪽에 있는 남성은 어두운 색상의 의상과 흰색 무늬가 있는 두건을 착용하고 있습니다.",
+        "words_per_caption_en": 14.2,
+        "words_per_caption_ko": 11.2,
+        "total_words_en": 71,
+        "total_words_ko": 56
+    }
+}

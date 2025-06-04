@@ -1,0 +1,39 @@
+{
+    "image": {
+        "image_id": "SF_a084_0111_0.png",
+        "resolution": "1280x720",
+        "DPI": 72,
+        "bitdepth": 24,
+        "image_category_1": "과학기술",
+        "image_category_2": "공학/기술",
+        "image_category_3": "IT"
+    },
+    "video": {
+        "video_id": "SF_a084.mp4",
+        "timecode": "00:01:51",
+        "video_category_1": "특수촬영",
+        "video_category_2": "CG",
+        "video_category_3": "CG",
+        "framerate": 30,
+        "production_year": 2018,
+        "media": "지상파",
+        "reference": "SBS_Archive",
+        "copyright": "SBS"
+    },
+    "context": {
+        "caption_en_1": "It shows a man practicing archery in an indoor virtual reality setup.",
+        "caption_en_2": "The environment instead of being outdoors is designed to replicate a realistic forest on a large projection screen.",
+        "caption_en_3": "On the screen in front of the archer is a massive colorful target with concentric circles in hues of blue, black, red and yellow.",
+        "caption_en_4": "The archer wears casual clothing with a gray sweater and black pants as he pulls back the arrow aiming carefully at the target.",
+        "caption_en_5": "The room is well-lit suggesting the archery session is happening in a well-maintained facility with good lighting.",
+        "caption_ko_1": "궁수 앞에 있는 화면에는 파란색, 검은색, 빨간색, 노란색으로 된 동심원 무늬의 거대한 색색의 표적이 보입니다.",
+        "caption_ko_2": "환경은 야외가 아니라 대형 프로젝션 화면에 사실적인 숲을 복제하도록 설계되었습니다.",
+        "caption_ko_3": "타이머는 오른쪽 상단에 있으며 63초라는 시간을 나타내며 제한된 시간 안에 활시위를 당겨야 합니다.",
+        "caption_ko_4": "한 남자가 활을 들고 실내 가상 현실의 환경에서 양궁을 연습하는 모습입니다.",
+        "caption_ko_5": "바닥에는 초록색 인조 잔디로 되어 있으며 주변에는 하얀색 작은 공이 있습니다.",
+        "words_per_caption_en": 18.8,
+        "words_per_caption_ko": 12.0,
+        "total_words_en": 94,
+        "total_words_ko": 60
+    }
+}

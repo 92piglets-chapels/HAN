@@ -1,0 +1,39 @@
+{
+    "image": {
+        "image_id": "FO_b398_0120_0.png",
+        "resolution": "1280x720",
+        "DPI": 72,
+        "bitdepth": 24,
+        "image_category_1": "음식",
+        "image_category_2": "디저트",
+        "image_category_3": "음료"
+    },
+    "video": {
+        "video_id": "FO_b398.mp4",
+        "timecode": "00:02:00",
+        "video_category_1": "음식",
+        "video_category_2": "양식",
+        "video_category_3": "양식",
+        "framerate": 30,
+        "production_year": 2024,
+        "media": "지상파",
+        "reference": "SBS_Archive",
+        "copyright": "SBS"
+    },
+    "context": {
+        "caption_en_1": "There are various wooden shelves full of ceramic pots and jars in the background.",
+        "caption_en_2": "There is a patterned ceramic cup filled with a rich dark tea on a wooden saucer.",
+        "caption_en_3": "There is a ceramic teapot on the right side of the table.",
+        "caption_en_4": "A red spoon rests delicately on the saucer beneath the cup.",
+        "caption_en_5": "To the left is a rectangular plate holding traditional Korean rice cake tinged a subtle hue of purple.",
+        "caption_ko_1": "진한 체리색 나뭇결이 돋보이는 상이 보이고 그 뒤로는 나무로 만든 수납장들이 보입니다.",
+        "caption_ko_2": "선반 위에 놓인 각종 옹기들과 찻잔 등은 전통적인 감성을 한껏 살려줍니다.",
+        "caption_ko_3": "옥색 찻주전자와 전통 도기 쟁반, 전통 도기 찻잔이 놓여 있습니다. 이러한 도기들이 음식과 분위기에 고풍스러움을 더하고 있습니다.",
+        "caption_ko_4": "낮은 오목 접시 위에는 네모난 분홍색 떡이 올려져 있습니다. 떡은 전통적인 디저트로 건강에도 좋은 영향을 끼칩니다.",
+        "caption_ko_5": "가운데에 놓여진 찻잔은 받침대에 정갈하게 올려져 있으며 받침대 위에는 작은 찻숫가락도 놓여 있어 있습니다. 거기에 직접 내린 대추차는 하나의 전통 음식을 완성합니다.",
+        "words_per_caption_en": 14.2,
+        "words_per_caption_ko": 15.6,
+        "total_words_en": 71,
+        "total_words_ko": 78
+    }
+}

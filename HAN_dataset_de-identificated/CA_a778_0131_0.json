@@ -1,0 +1,39 @@
+{
+    "image": {
+        "image_id": "CA_a778_0131_0.png",
+        "resolution": "1280x720",
+        "DPI": 72,
+        "bitdepth": 24,
+        "image_category_1": "자연/기상",
+        "image_category_2": "자연/환경",
+        "image_category_3": "도시/시골"
+    },
+    "video": {
+        "video_id": "CA_a778.mp4",
+        "timecode": "00:02:11",
+        "video_category_1": "문화/예술",
+        "video_category_2": "미술",
+        "video_category_3": "그림",
+        "framerate": 30,
+        "production_year": 2022,
+        "media": "지상파",
+        "reference": "SBS_Archive",
+        "copyright": "SBS"
+    },
+    "context": {
+        "caption_en_1": "This image shows a bustling urban street scene flooded with activity.",
+        "caption_en_2": "Narrow alleyways flank the main path, which is brimming with a variety of shops and cafés.",
+        "caption_en_3": "A few pedestrians leisurely stroll down the street adding life to the scene.",
+        "caption_en_4": "In the fore-to-midground, a man rides a scooter perhaps on his way to some important errand or meeting.",
+        "caption_en_5": "Dominating the background are numerous Korean signs and shop advertisements all framed by a canopy of interwoven electric cables overhead.",
+        "caption_ko_1": "여러 종류의 상가들이 모여 있는 좁은 골목길의 모습을 볼 수 있습니다.",
+        "caption_ko_2": "오른쪽에 있는 상가는 셔터가 내려져 있는 상태이며 입구에 차양막이 설치되어 있습니다.",
+        "caption_ko_3": "회색의 좁은 골목길에는 어두운색 바지와 주황색 상의를 입은 사람이 그늘로 걸어가고 있습니다.",
+        "caption_ko_4": "이 골목길에 있는 건물들은 새로 지어진 것으로 보이지 않고, 골목길 위에는 많은 전선이 복잡하게 얽혀 있습니다.",
+        "caption_ko_5": "골목길의 중간에는 한 사람이 흰색과 검은색 스쿠터를 타고 지나가고 있습니다.",
+        "words_per_caption_en": 15.6,
+        "words_per_caption_ko": 12.0,
+        "total_words_en": 78,
+        "total_words_ko": 60
+    }
+}

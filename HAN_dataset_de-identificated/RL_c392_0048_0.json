@@ -1,0 +1,39 @@
+{
+    "image": {
+        "image_id": "RL_c392_0048_0.png",
+        "resolution": "1280x720",
+        "DPI": 72,
+        "bitdepth": 24,
+        "image_category_1": "경제/산업/일상",
+        "image_category_2": "이벤트",
+        "image_category_3": "축제"
+    },
+    "video": {
+        "video_id": "RL_c392.mp4",
+        "timecode": "00:00:48",
+        "video_category_1": "지역/랜드마크",
+        "video_category_2": "명소",
+        "video_category_3": "유적지",
+        "framerate": 30,
+        "production_year": 2024,
+        "media": "지상파",
+        "reference": "SBS_Archive",
+        "copyright": "SBS"
+    },
+    "context": {
+        "caption_en_1": "Under bright sunlight, four people are engaging in an outdoor activity on the grassy field.",
+        "caption_en_2": "The people are constructing a tripod-like structure using long, thin sticks and rope.",
+        "caption_en_3": "A person on the left is wearing a vest and a light-colored hat, while another person in all black is holding a piece of rope.",
+        "caption_en_4": "Another person in all black is holding a piece of rope, seemingly wrapping it around the sticks to secure them together.",
+        "caption_en_5": "A man in a black shirt and blue jeans stands near the wooden structure, while a woman, dressed in dark green and bright yellow shoes, participates in the assembly.",
+        "caption_ko_1": "밝은 햇빛 아래 야외 활동에 참여하는 네 명의 사람이 있습니다.",
+        "caption_ko_2": "그들은 길고 얇은 막대기와 로프를 사용하여 삼각대와 같은 구조를 만들고 있습니다.",
+        "caption_ko_3": "왼쪽에 있는 한 사람은 풀색의 캐주얼한 아웃도어 복장을 하고 있으며, 감독이나 지시를 내리는 것 같습니다.",
+        "caption_ko_4": "한 여성은 검은색 옷을 입고 있으며, 막대를 고정하기 위해 로프를 감고 있는 것 같습니다.",
+        "caption_ko_5": "구조물 오른쪽에 서 있는 사람은 짙은 초록색 옷을 입고 노란색 신발을 신었으며, 조립에 참여하고 있습니다.",
+        "words_per_caption_en": 20.6,
+        "words_per_caption_ko": 13.0,
+        "total_words_en": 103,
+        "total_words_ko": 65
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "image": {
+        "image_id": "ST_0019_0076_0.png",
+        "resolution": "640x360",
+        "DPI": 72,
+        "bitdepth": 24,
+        "image_category_1": "경제/산업/일상",
+        "image_category_2": "산업",
+        "image_category_3": "공학"
+    },
+    "video": {
+        "video_id": "ST_0019.mp4",
+        "timecode": "00:01:16",
+        "video_category_1": "과학기술",
+        "video_category_2": "공학/기술",
+        "video_category_3": "반도체",
+        "framerate": 30,
+        "production_year": 2024,
+        "media": "SNS",
+        "reference": "SBS_NEWS",
+        "copyright": "SBS"
+    },
+    "context": {
+        "caption_en_1": "This is a highly advanced and meticulously organized laboratory or manufacturing facility.",
+        "caption_en_2": "The facility is equipped with numerous state-of-the-art machines tightly packed along the length of the large well-lit room.",
+        "caption_en_3": "The dominant colors in the scene are metallic silver and bright white giving the environment a clean sterile appearance, and there are two people in white walking down the isle.",
+        "caption_en_4": "Overhead various robotic and automated systems labeled with codes such as VT299 and VT140 are suspended from the ceiling indicating sophisticated automation technology.",
+        "caption_en_5": "The floor is almost spotless, reflecting a commitment to cleanliness and precision.",
+        "caption_ko_1": "하얀 조명 아래 두 사람이 하얀 보호복을 입고 걷고 있으며 장비들이 촘촘히 붙어있습니다.",
+        "caption_ko_2": "'VT299' 및 'VT140'과 같은 코드로 표시된 다양한 로봇 및 자동화 시스템이 천장에 매달려 있어 정교한 자동화 기술을 나타냅니다.",
+        "caption_ko_3": "이 시설은 크고 밝게 조명된 방을 따라 촘촘하게 배치된 수많은 최첨단 기계로 장착되어 있습니다.",
+        "caption_ko_4": "시설은 매우 넓고 모든 기계들이 하얘서 단일한 느낌이 있으면서 복도로 사이가 나눠져 있습니다.",
+        "caption_ko_5": "바닥은 청결과 정밀함이 나타나듯 깨끗하며 기계들은 매우 정교하게 움직이고 있습니다.",
+        "words_per_caption_en": 19.0,
+        "words_per_caption_ko": 13.6,
+        "total_words_en": 95,
+        "total_words_ko": 68
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "image": {
+        "image_id": "FO_b302_0055_0.png",
+        "resolution": "1280x720",
+        "DPI": 72,
+        "bitdepth": 24,
+        "image_category_1": "음식",
+        "image_category_2": "한식",
+        "image_category_3": "한식"
+    },
+    "video": {
+        "video_id": "FO_b302.mp4",
+        "timecode": "00:00:55",
+        "video_category_1": "음식",
+        "video_category_2": "한식",
+        "video_category_3": "한식",
+        "framerate": 30,
+        "production_year": 2023,
+        "media": "지상파",
+        "reference": "SBS_Archive",
+        "copyright": "SBS"
+    },
+    "context": {
+        "caption_en_1": "It is a vibrant and lively dining scene focused on Korean cuisine.",
+        "caption_en_2": "The central element is a steaming pot filled with green vegetables and slices of meat.",
+        "caption_en_3": "To the left, various side dishes in metallic trays are visible, including kimchi and sliced garlic.",
+        "caption_en_4": "A hand in a black glove is trying to move the hot pot of broth.",
+        "caption_en_5": "Another black plate filled with boiled sliced pork is seen at the top right.",
+        "caption_ko_1": "오른쪽 위에 갈색 빛깔의 고기들이 푸짐하게 담겨 있는 검은색 그릇이 보입니다.",
+        "caption_ko_2": "검은색 장갑을 낀 손이 검은 냄비의 손잡이 부분을 잡고 있습니다.",
+        "caption_ko_3": "테이블 가장자리 쪽에는 초록색과 흰색으로 이루어져 있는 음료수 캔이 놓여 있습니다.",
+        "caption_ko_4": "검은색 냄비 주위에는 여러 음식이 들어 있은 은색 그릇들이 놓여 있습니다.",
+        "caption_ko_5": "검은 냄비 안에는 은색 철판이 깔려 있고 그 위에 녹색 채소와 고기 몇 점이 놓여 있습니다.",
+        "words_per_caption_en": 14.4,
+        "words_per_caption_ko": 11.8,
+        "total_words_en": 72,
+        "total_words_ko": 59
+    }
+}
